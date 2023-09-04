@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=Line Follower.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=01 - Main_Board\01 - Main_Board.PrjPcb
+Record=SubProject|SourceDocument=Line Follower.MbsDoc|ProjectPath=01 - Main_Board\01 - Main_Board.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Line Follower.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=02 - Sensor_Array\02 - Sensor_Array.PrjPcb
+Record=SubProject|SourceDocument=Line Follower.MbsDoc|ProjectPath=02 - Sensor_Array\02 - Sensor_Array.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Line Follower.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=03 - TOF_Sensor_Array_Board\03 - TOF_Sensor_Array_Board.PrjPcb
+Record=SubProject|SourceDocument=Line Follower.MbsDoc|ProjectPath=03 - TOF_Sensor_Array_Board\03 - TOF_Sensor_Array_Board.PrjPcb

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J1 Old Footprint=USB4105-GF-A-060 New Footprint=TYPE-C-31-M-12
+Change Component Comment : Designator=J1 Old Comment=USB4105-GF-A-060 New Comment=TYPE-C-31-M-12
+Change component parameters: Designator = "J1" ("J1"); Footprint = "USB4105-GF-A-060"; UniqueID = "\FWKGFIFU" ("\FWKGFIFU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Koren Hroparts"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TYPE-C-31-M-12"; VariantName = "[No Variations]"

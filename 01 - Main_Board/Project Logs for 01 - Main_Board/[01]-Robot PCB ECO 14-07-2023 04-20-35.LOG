@@ -1,0 +1,250 @@
+Removed Pin From Net: NetName=NetC58_2 Pin=U11-1
+Removed Pin From Net: NetName=DIR_M1 Pin=U11-2
+Removed Pin From Net: NetName=DIR_M2 Pin=U11-3
+Removed Pin From Net: NetName=MOTOR_FAULT Pin=U11-4
+Removed Pin From Net: NetName=NetC49_2 Pin=U11-5
+Removed Pin From Net: NetName=NetR41_2 Pin=U11-6
+Removed Pin From Net: NetName=NRST Pin=U11-7
+Removed Pin From Net: NetName=PSOUT5 Pin=U11-8
+Removed Pin From Net: NetName=PSOUT6 Pin=U11-9
+Removed Pin From Net: NetName=PSOUT7 Pin=U11-10
+Removed Pin From Net: NetName=PSOUT8 Pin=U11-11
+Removed Pin From Net: NetName=GND Pin=U11-12
+Removed Pin From Net: NetName=NetC55_1 Pin=U11-13
+Removed Pin From Net: NetName=PSOUT1 Pin=U11-14
+Removed Pin From Net: NetName=PSOUT2 Pin=U11-15
+Removed Pin From Net: NetName=PSOUT3 Pin=U11-16
+Removed Pin From Net: NetName=PSOUT4 Pin=U11-17
+Removed Pin From Net: NetName=GND Pin=U11-18
+Removed Pin From Net: NetName=3V3 Pin=U11-19
+Removed Pin From Net: NetName=DAC1_STH Pin=U11-20
+Removed Pin From Net: NetName=DAC2_STH Pin=U11-21
+Removed Pin From Net: NetName=PS_SET Pin=U11-22
+Removed Pin From Net: NetName=LED_ON Pin=U11-23
+Removed Pin From Net: NetName=LED_R Pin=U11-24
+Removed Pin From Net: NetName=LED_G Pin=U11-25
+Removed Pin From Net: NetName=NetR20_2 Pin=U11-26
+Removed Pin From Net: NetName=NetR25_2 Pin=U11-27
+Removed Pin From Net: NetName=LED_B Pin=U11-28
+Removed Pin From Net: NetName=SCK Pin=U11-29
+Removed Pin From Net: NetName=NetC59_2 Pin=U11-30
+Removed Pin From Net: NetName=GND Pin=U11-31
+Removed Pin From Net: NetName=3V3 Pin=U11-32
+Removed Pin From Net: NetName=SPI_CS_A/G Pin=U11-33
+Removed Pin From Net: NetName=SPI_CS_M Pin=U11-34
+Removed Pin From Net: NetName=MISO Pin=U11-35
+Removed Pin From Net: NetName=MOSI Pin=U11-36
+Removed Pin From Net: NetName=NetR26_2 Pin=U11-37
+Removed Pin From Net: NetName=VBAT Pin=U11-38
+Removed Pin From Net: NetName=USB_D_N Pin=U11-44
+Removed Pin From Net: NetName=USB_D_P Pin=U11-45
+Removed Pin From Net: NetName=SWDIO Pin=U11-46
+Removed Pin From Net: NetName=GND Pin=U11-47
+Removed Pin From Net: NetName=3V3 Pin=U11-48
+Removed Pin From Net: NetName=SWCLK Pin=U11-49
+Removed Pin From Net: NetName=BT_TX Pin=U11-51
+Removed Pin From Net: NetName=BT_RX Pin=U11-52
+Removed Pin From Net: NetName=SDO Pin=U11-55
+Removed Pin From Net: NetName=M1_ENC Pin=U11-56
+Removed Pin From Net: NetName=M2_ENC Pin=U11-57
+Removed Pin From Net: NetName=SCL Pin=U11-58
+Removed Pin From Net: NetName=SDA Pin=U11-59
+Removed Pin From Net: NetName=NetR42_2 Pin=U11-60
+Removed Pin From Net: NetName=EN_M1 Pin=U11-61
+Removed Pin From Net: NetName=NetR22_2 Pin=U11-62
+Removed Pin From Net: NetName=GND Pin=U11-63
+Removed Pin From Net: NetName=3V3 Pin=U11-64
+Removed Member From Class: ClassName=Microcontroller Member=U11
+Added Component: Designator=U?(FP-LQFP64-5W-IPC_B)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mouser.com/ds/2/389/stm32f446mc-956216.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/389/stm32f446mc-956216.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.st.com/en/microcontrollers-microprocessors/stm32f446re.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-58295083.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-58295083.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/65/cb/75/50/53/d6/48/24/DM00141306.pdf/files/DM00141306.pdf/jcr:content/translations/en.DM00141306.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/65/cb/75/50/53/d6/48/24/DM00141306.pdf/files/DM00141306.pdf/jcr:content/translations/en.DM00141306.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-41797127.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-41797127.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-83961502.pdf?src-supplier=SHENGYU+ELECTRONICS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-83961502.pdf?src-supplier=SHENGYU+ELECTRONICS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Architecture"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Bus Width"; Value = "32bits"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Embedded Processors and Controllers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Microcontrollers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "IC MCU 32BIT 512KB FLASH 64LQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "180MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C,SPI,UART,USART,CAN,USB,LIN,IrDA,I2S,Other"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "QFP50P1200X1200X160-64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "STM32F446RET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temp"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "512KBytes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Type"; Value = "FLASH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "1.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "ARM Microcontrollers - MCU High-performance and DSP with FP, ARM Cortex-M4 MCU with 512 Kbytes Flash, 180 MHz CPU, Art Accelerator, SDRAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of A/D Converters"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Adc Channels"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Cores"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of I2C Channels"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of I/Os"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Pwm Channels"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Spi Channels"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Timers/Counters"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Uart Channels"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Usb Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/stm32f446ret6-stmicroelectronics-52642920"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP64-5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=12.45, 10=11.25, 50=10.54, 100=9.5, 1000=6.72, 10000=6.72 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ram Size"; Value = "128KBytes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standoff Height"; Value = "0.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "511-STM32F446RET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Added Component: Designator=U?(FP-LQFP64-5W-IPC_B)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mouser.com/ds/2/389/stm32f446mc-956216.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/389/stm32f446mc-956216.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.st.com/en/microcontrollers-microprocessors/stm32f446re.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-58295083.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-58295083.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/65/cb/75/50/53/d6/48/24/DM00141306.pdf/files/DM00141306.pdf/jcr:content/translations/en.DM00141306.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/65/cb/75/50/53/d6/48/24/DM00141306.pdf/files/DM00141306.pdf/jcr:content/translations/en.DM00141306.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-41797127.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-41797127.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-83961502.pdf?src-supplier=SHENGYU+ELECTRONICS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-83961502.pdf?src-supplier=SHENGYU+ELECTRONICS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Architecture"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Bus Width"; Value = "32bits"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Embedded Processors and Controllers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Microcontrollers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "IC MCU 32BIT 512KB FLASH 64LQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "180MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C,SPI,UART,USART,CAN,USB,LIN,IrDA,I2S,Other"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "QFP50P1200X1200X160-64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "STM32F446RET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temp"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "512KBytes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Type"; Value = "FLASH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "1.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "ARM Microcontrollers - MCU High-performance and DSP with FP, ARM Cortex-M4 MCU with 512 Kbytes Flash, 180 MHz CPU, Art Accelerator, SDRAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of A/D Converters"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Adc Channels"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Cores"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of I2C Channels"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of I/Os"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Pwm Channels"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Spi Channels"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Timers/Counters"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Uart Channels"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Usb Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/stm32f446ret6-stmicroelectronics-52642920"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP64-5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=12.45, 10=11.25, 50=10.54, 100=9.5, 1000=6.72, 10000=6.72 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ram Size"; Value = "128KBytes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standoff Height"; Value = "0.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "511-STM32F446RET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC58_2 Pin=U?-1
+Added Pin To Net: NetName=DIR_M1 Pin=U?-2
+Added Pin To Net: NetName=DIR_M2 Pin=U?-3
+Added Pin To Net: NetName=MOTOR_FAULT Pin=U?-4
+Added Pin To Net: NetName=NetC49_2 Pin=U?-5
+Added Pin To Net: NetName=NetR41_2 Pin=U?-6
+Added Pin To Net: NetName=NRST Pin=U?-7
+Added Pin To Net: NetName=PSOUT5 Pin=U?-8
+Added Pin To Net: NetName=PSOUT6 Pin=U?-9
+Added Pin To Net: NetName=PSOUT7 Pin=U?-10
+Added Pin To Net: NetName=PSOUT8 Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-12
+Added Pin To Net: NetName=NetC55_1 Pin=U?-13
+Added Pin To Net: NetName=PSOUT1 Pin=U?-14
+Added Pin To Net: NetName=PSOUT2 Pin=U?-15
+Added Pin To Net: NetName=PSOUT3 Pin=U?-16
+Added Pin To Net: NetName=PSOUT4 Pin=U?-17
+Added Pin To Net: NetName=GND Pin=U?-18
+Added Pin To Net: NetName=3V3 Pin=U?-19
+Added Pin To Net: NetName=DAC1_STH Pin=U?-20
+Added Pin To Net: NetName=DAC2_STH Pin=U?-21
+Added Pin To Net: NetName=PS_SET Pin=U?-22
+Added Pin To Net: NetName=LED_ON Pin=U?-23
+Added Pin To Net: NetName=LED_R Pin=U?-24
+Added Pin To Net: NetName=LED_G Pin=U?-25
+Added Pin To Net: NetName=NetR20_2 Pin=U?-26
+Added Pin To Net: NetName=NetR25_2 Pin=U?-27
+Added Pin To Net: NetName=LED_B Pin=U?-28
+Added Pin To Net: NetName=SCK Pin=U?-29
+Added Pin To Net: NetName=NetC59_2 Pin=U?-30
+Added Pin To Net: NetName=GND Pin=U?-31
+Added Pin To Net: NetName=3V3 Pin=U?-32
+Added Pin To Net: NetName=SPI_CS_A/G Pin=U?-33
+Added Pin To Net: NetName=SPI_CS_M Pin=U?-34
+Added Pin To Net: NetName=MISO Pin=U?-35
+Added Pin To Net: NetName=MOSI Pin=U?-36
+Added Pin To Net: NetName=NetR26_2 Pin=U?-37
+Added Pin To Net: NetName=VBAT Pin=U?-38
+Added Pin To Net: NetName=USB_D_N Pin=U?-44
+Added Pin To Net: NetName=USB_D_P Pin=U?-45
+Added Pin To Net: NetName=SWDIO Pin=U?-46
+Added Pin To Net: NetName=GND Pin=U?-47
+Added Pin To Net: NetName=3V3 Pin=U?-48
+Added Pin To Net: NetName=SWCLK Pin=U?-49
+Added Pin To Net: NetName=BT_TX Pin=U?-51
+Added Pin To Net: NetName=BT_RX Pin=U?-52
+Added Pin To Net: NetName=SDO Pin=U?-55
+Added Pin To Net: NetName=M1_ENC Pin=U?-56
+Added Pin To Net: NetName=M2_ENC Pin=U?-57
+Added Pin To Net: NetName=SCL Pin=U?-58
+Added Pin To Net: NetName=SDA Pin=U?-59
+Added Pin To Net: NetName=NetR42_2 Pin=U?-60
+Added Pin To Net: NetName=EN_M1 Pin=U?-61
+Added Pin To Net: NetName=NetR22_2 Pin=U?-62
+Added Pin To Net: NetName=GND Pin=U?-63
+Added Pin To Net: NetName=3V3 Pin=U?-64
+Added Member To Class: ClassName=Microcontroller Member=Component U? STM32F446RET6
+Added Member To Class: ClassName=Microcontroller Member=Component U? STM32F446RET6
+Added Room: Name=Analog Switch
+Added Room: Name=BMS
+Added Room: Name=DC-DC
+Added Room: Name=IMU
+Added Room: Name=Microcontroller
+Added Room: Name=Motor Drivers
+Added Room: Name=Peripherals

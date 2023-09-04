@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=3V3 Pin=P3-1
+Removed Pin From Net: NetName=SWCLK Pin=P3-2
+Removed Pin From Net: NetName=GND Pin=P3-3
+Removed Pin From Net: NetName=SWDIO Pin=P3-4
+Removed Pin From Net: NetName=NRST Pin=P3-5
+Removed Pin From Net: NetName=SDO Pin=P3-6
+Removed Member From Class: ClassName=Microcontroller Member=P3
+Added Component: Designator=J7(CON6_100_59D78_TH_ST_Duplicate)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SP ROAD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=J7-1
+Added Pin To Net: NetName=SWCLK Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=SWDIO Pin=J7-4
+Added Pin To Net: NetName=NRST Pin=J7-5
+Added Pin To Net: NetName=SDO Pin=J7-6
+Added Member To Class: ClassName=Microcontroller Member=Component J7 3X2 BergStrip

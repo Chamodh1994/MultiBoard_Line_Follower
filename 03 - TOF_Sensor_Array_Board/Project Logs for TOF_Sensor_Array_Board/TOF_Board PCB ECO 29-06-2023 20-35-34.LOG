@@ -1,0 +1,86 @@
+Added Component: Designator=X1(VL53L0XV2_MODULE)
+Added Component: Designator=X2(VL53L0XV2_MODULE)
+Added Component: Designator=X3(VL53L0XV2_MODULE)
+Added Component: Designator=X4(VL53L0XV2_MODULE)
+Added Component: Designator=X5(VL53L0XV2_MODULE)
+Added Component: Designator=X6(VL53L0XV2_MODULE)
+Added Component: Designator=X7(CONN12x1_FH34SRJ-16S-0.5SH(50))
+Add component (AddParameter): Name = "Actuator Material"; Value = "Nylon,Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "FFC / FPC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.hirose.com/product/en/download_file/key_name/FH34SRJ/category/Catalog/doc_file_id/31646/?file_category_id=4&item_id=27&is_series=1&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.hirose.com/product/en/download_file/key_name/FH34SRJ/category/Catalog/doc_file_id/31646/?file_category_id=4&item_id=27&is_series=1&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.hirose.com/product/download/?distributor=digikey&amp;type=specSheet&amp;lang=en&amp;num=FH34SRJ-16S-0.5SH(50)&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.hirose.com/product/download/?distributor=digikey&amp;type=specSheet&amp;lang=en&amp;num=FH34SRJ-16S-0.5SH(50)&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hirose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FH34SRJ-16S-0.5SH(50)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.02inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.04, 10=0.878, 25=0.842, 50=0.8242, 100=0.7884, 250=0.71668, 500=0.64502, 1000=0.57336, 2500=0.5196 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "FH34SRJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2594"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "H125754CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=X1-1
+Added Pin To Net: NetName=3V3 Pin=X2-1
+Added Pin To Net: NetName=3V3 Pin=X3-1
+Added Pin To Net: NetName=3V3 Pin=X4-1
+Added Pin To Net: NetName=3V3 Pin=X5-1
+Added Pin To Net: NetName=3V3 Pin=X6-1
+Added Pin To Net: NetName=3V3 Pin=X7-1
+Added Net: Name=3V3
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X3-2
+Added Pin To Net: NetName=GND Pin=X4-2
+Added Pin To Net: NetName=GND Pin=X5-2
+Added Pin To Net: NetName=GND Pin=X6-2
+Added Pin To Net: NetName=GND Pin=X7-11
+Added Pin To Net: NetName=GND Pin=X7-13
+Added Pin To Net: NetName=GND Pin=X7-15
+Added Pin To Net: NetName=GND Pin=X7-16
+Added Pin To Net: NetName=GND Pin=X7-17
+Added Pin To Net: NetName=GND Pin=X7-18
+Added Net: Name=GND
+Added Pin To Net: NetName=SCL Pin=X1-3
+Added Pin To Net: NetName=SCL Pin=X2-3
+Added Pin To Net: NetName=SCL Pin=X3-3
+Added Pin To Net: NetName=SCL Pin=X4-3
+Added Pin To Net: NetName=SCL Pin=X5-3
+Added Pin To Net: NetName=SCL Pin=X6-3
+Added Pin To Net: NetName=SCL Pin=X7-12
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=X1-4
+Added Pin To Net: NetName=SDA Pin=X2-4
+Added Pin To Net: NetName=SDA Pin=X3-4
+Added Pin To Net: NetName=SDA Pin=X4-4
+Added Pin To Net: NetName=SDA Pin=X5-4
+Added Pin To Net: NetName=SDA Pin=X6-4
+Added Pin To Net: NetName=SDA Pin=X7-14
+Added Net: Name=SDA
+Added Pin To Net: NetName=XSHUT1 Pin=X1-6
+Added Net: Name=XSHUT1
+Added Pin To Net: NetName=XSHUT2 Pin=X3-6
+Added Net: Name=XSHUT2
+Added Pin To Net: NetName=XSHUT3 Pin=X5-6
+Added Net: Name=XSHUT3
+Added Pin To Net: NetName=XSHUT4 Pin=X2-6
+Added Net: Name=XSHUT4
+Added Pin To Net: NetName=XSHUT5 Pin=X4-6
+Added Net: Name=XSHUT5
+Added Pin To Net: NetName=XSHUT6 Pin=X6-6
+Added Net: Name=XSHUT6
+Added Class: Name=Time of Flight Sensor Array

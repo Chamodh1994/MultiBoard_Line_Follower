@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=BAT Pin=SW1-1
+Removed Pin From Net: NetName=+BAT_RAW Pin=SW1-2
+Added Component: Designator=C63(CAP_0603)
+Added Component: Designator=Q3(INF-PG-TO252-3-11_N)
+Add component (AddParameter): Name = "Category"; Value = "Transistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/951/aod4185-951090.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/951/aod4185-951090.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/6384/aod4185-6384890.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/6384/aod4185-6384890.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/6384/aod4185-6384893.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/6384/aod4185-6384893.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha & Omega Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AOD4185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.8184, 10=0.7205, 25=0.7134, 100=0.5449, 250=0.5394, 500=0.424, 1000=0.3369, 3000=0.3025 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "3171"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "AOD4185"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C63-1
+Added Pin To Net: NetName=BAT Pin=Q3-2
+Added Pin To Net: NetName=+BAT_RAW Pin=Q3-3
+Added Pin To Net: NetName=+BAT_RAW Pin=R20-2
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=NetC63_2 Pin=C63-2
+Added Pin To Net: NetName=NetC63_2 Pin=Q3-1
+Added Pin To Net: NetName=NetC63_2 Pin=R20-1
+Added Pin To Net: NetName=NetC63_2 Pin=R22-2
+Added Net: Name=NetC63_2
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=SW1-1
+Added Net: Name=NetR22_1
+Added Member To Class: ClassName=BMS Member=Component C63 100n
+Added Member To Class: ClassName=BMS Member=Component Q3 AOD4185
+Added Member To Class: ClassName=BMS Member=Component R20 100K
+Added Member To Class: ClassName=BMS Member=Component R22 100R

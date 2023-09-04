@@ -1,0 +1,253 @@
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=C?(CAP_0603)
+Added Component: Designator=D?(LED_0603_RED)
+Added Component: Designator=D?(SOT-23-6)
+Add component (AddParameter): Name = "Distributor Link"; Value = "https://www.mouser.de/ProductDetail/STMicroelectronics/USBLC6-2SC6?qs=po45yt2pPpu%2FhNIlwQdTlg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "USBLC6-2SC6"; VariantName = "[No Variations]"
+Added Component: Designator=FB?(FB_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C370580"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sunlord"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "UPZ2012E101-4R0TF"; VariantName = "[No Variations]"
+Added Component: Designator=J?(USB4105-GF-A-060)
+Add component (AddParameter): Name = "Manufacturer"; Value = "GCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "USB4105-GF-A-060"; VariantName = "[No Variations]"
+Added Component: Designator=L?(MWSA0402S)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sunlord"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MWSA0402S-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=P?(JST- S2B-PH-SM4-TB(LF)(SN)-2_V)
+Add component (AddParameter): Name = "Colour"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Dec-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.13 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "0.1 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "101.19 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-65degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Male Header, Pitch 2 mm, 1 x 2 Position, Height 5.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "S2B-PH-SM4-TB(LF)(SN)-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.34 mm"; VariantName = "[No Variations]"
+Added Component: Designator=P?(JST- S2B-PH-SM4-TB(LF)(SN)-2_V)
+Add component (AddParameter): Name = "Colour"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Dec-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.13 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "0.1 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "101.19 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-65degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Male Header, Pitch 2 mm, 1 x 2 Position, Height 5.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "S2B-PH-SM4-TB(LF)(SN)-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.34 mm"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(WQFN50P300X300X80_HS-17N)
+Add component (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC#"; Value = "C2842775"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BQ25303JRTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.18000, 10=1.97000, 50=1.85000, 100=1.58000, 1000=1.08000, 10000=0.97900 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "8047"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BQ25303JRTER"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW?(MSK12C02-HB)
+Add component (AddParameter): Name = "Actuator Length"; Value = "1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "70mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC#"; Value = "C431541"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "12v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "10000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "12v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "6.7mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+BAT_RAW Pin=C?-2
+Added Pin To Net: NetName=+BAT_RAW Pin=C?-2
+Added Pin To Net: NetName=+BAT_RAW Pin=L?-2
+Added Pin To Net: NetName=+BAT_RAW Pin=P?-1
+Added Pin To Net: NetName=+BAT_RAW Pin=Q?-10
+Added Pin To Net: NetName=+BAT_RAW Pin=SW?-2
+Added Net: Name=+BAT_RAW
+Added Pin To Net: NetName=+VBUS Pin=C?-2
+Added Pin To Net: NetName=+VBUS Pin=C?-2
+Added Pin To Net: NetName=+VBUS Pin=C?-2
+Added Pin To Net: NetName=+VBUS Pin=FB?-2
+Added Pin To Net: NetName=+VBUS Pin=Q?-1
+Added Net: Name=+VBUS
+Added Pin To Net: NetName=+VUSB Pin=C?-2
+Added Pin To Net: NetName=+VUSB Pin=D?-5
+Added Pin To Net: NetName=+VUSB Pin=FB?-1
+Added Pin To Net: NetName=+VUSB Pin=J?-A4B9
+Added Pin To Net: NetName=+VUSB Pin=J?-B4A9
+Added Net: Name=+VUSB
+Added Pin To Net: NetName=BAT Pin=SW?-1
+Added Net: Name=BAT
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=J?-A1B12
+Added Pin To Net: NetName=GND Pin=J?-B1A12
+Added Pin To Net: NetName=GND Pin=J?-SH
+Added Pin To Net: NetName=GND Pin=J?-SH
+Added Pin To Net: NetName=GND Pin=J?-SH
+Added Pin To Net: NetName=GND Pin=J?-SH
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-MP1
+Added Pin To Net: NetName=GND Pin=P?-MP1
+Added Pin To Net: NetName=GND Pin=P?-MP2
+Added Pin To Net: NetName=GND Pin=P?-MP2
+Added Pin To Net: NetName=GND Pin=Q?-6
+Added Pin To Net: NetName=GND Pin=Q?-17
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=SW?-4
+Added Pin To Net: NetName=GND Pin=SW?-5
+Added Pin To Net: NetName=GND Pin=SW?-6
+Added Pin To Net: NetName=GND Pin=SW?-7
+Added Pin To Net: NetName=GND Pin=Q?-11
+Added Pin To Net: NetName=GND Pin=Q?-12
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=L?-1
+Added Pin To Net: NetName=NetC?_1 Pin=Q?-13
+Added Pin To Net: NetName=NetC?_1 Pin=Q?-14
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=Q?-15
+Added Net: Name=NetC?_2
+Add Net: Net with name "NetC?_2" already exists
+Added Pin To Net: NetName=NetD?_K Pin=D?-K
+Added Pin To Net: NetName=NetD?_K Pin=R?-2
+Added Net: Name=NetD?_K
+Added Pin To Net: NetName=NetJ?_A5 Pin=J?-A5
+Added Pin To Net: NetName=NetJ?_A5 Pin=R?-2
+Added Net: Name=NetJ?_A5
+Added Pin To Net: NetName=NetJ?_B5 Pin=J?-B5
+Added Pin To Net: NetName=NetJ?_B5 Pin=R?-2
+Added Net: Name=NetJ?_B5
+Added Pin To Net: NetName=NetP?_1 Pin=P?-1
+Added Pin To Net: NetName=NetP?_1 Pin=Q?-7
+Added Pin To Net: NetName=NetP?_1 Pin=R?-1
+Added Pin To Net: NetName=NetP?_1 Pin=R?-2
+Added Net: Name=NetP?_1
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-1
+Added Net: Name=NetQ?_3
+Added Pin To Net: NetName=NetQ?_4 Pin=Q?-4
+Added Pin To Net: NetName=NetQ?_4 Pin=R?-2
+Added Net: Name=NetQ?_4
+Added Pin To Net: NetName=NetQ?_9 Pin=Q?-9
+Added Pin To Net: NetName=NetQ?_9 Pin=R?-2
+Added Net: Name=NetQ?_9
+Added Pin To Net: NetName=REGN Pin=C?-2
+Added Pin To Net: NetName=REGN Pin=D?-A
+Added Pin To Net: NetName=REGN Pin=Q?-2
+Added Pin To Net: NetName=REGN Pin=R?-2
+Added Net: Name=REGN
+Added Pin To Net: NetName=USB_D_N Pin=D?-6
+Added Net: Name=USB_D_N
+Added Pin To Net: NetName=USB_D_P Pin=D?-4
+Added Net: Name=USB_D_P
+Added Pin To Net: NetName=USB_PORT_D_N Pin=D?-1
+Added Pin To Net: NetName=USB_PORT_D_N Pin=J?-A7
+Added Pin To Net: NetName=USB_PORT_D_N Pin=J?-B7
+Added Net: Name=USB_PORT_D_N
+Added Pin To Net: NetName=USB_PORT_D_P Pin=D?-3
+Added Pin To Net: NetName=USB_PORT_D_P Pin=J?-A6
+Added Pin To Net: NetName=USB_PORT_D_P Pin=J?-B6
+Added Net: Name=USB_PORT_D_P
+Added Class: Name=BMS
+Added Differential Pair: Name=USB_D
+Added Differential Pair: Name=USB_PORT_D
+Added Room: Name=BMS

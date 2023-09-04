@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=DAC1_STH Pin=U11-20
+Removed Pin From Net: NetName=DAC2_STH Pin=U11-21
+Added Component: Designator=R15(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DAC1_STH Pin=R15-2
+Added Pin To Net: NetName=DAC2_STH Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=DAC1_STH Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=DAC2_STH Pin=R18-2
+Change Net Name : Old Net Name=DAC1_STH New Net Name=DAC1_OUT
+Change Net Name : Old Net Name=DAC2_STH New Net Name=DAC2_OUT
+Added Pin To Net: NetName=DAC1_STH Pin=R15-1
+Added Pin To Net: NetName=DAC1_STH Pin=U11-20
+Added Net: Name=DAC1_STH
+Added Pin To Net: NetName=DAC2_STH Pin=R16-1
+Added Pin To Net: NetName=DAC2_STH Pin=U11-21
+Added Net: Name=DAC2_STH
+Added Member To Class: ClassName=Analog Switch Member=Component R15 10K
+Added Member To Class: ClassName=Analog Switch Member=Component R16 10K
+Added Member To Class: ClassName=Analog Switch Member=Component R17 10K
+Added Member To Class: ClassName=Analog Switch Member=Component R18 10K

@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C35
+Change Component Designator: OldDesignator=C? NewDesignator=C42
+Added Member To Class: ClassName=Motor Drivers Member=Component C42 10uF

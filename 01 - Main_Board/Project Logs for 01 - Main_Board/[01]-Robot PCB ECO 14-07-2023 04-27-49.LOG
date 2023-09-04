@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U11 Old Footprint=FP-LQFP64-5W-IPC_B New Footprint=FP-LQFP64-5W-IPC_B
+Added Component: Designator=X?(Left Motor)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Peripherals Member=Component X? LEFT MOTOR

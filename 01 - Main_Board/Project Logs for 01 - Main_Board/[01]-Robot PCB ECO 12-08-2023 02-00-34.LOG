@@ -1,0 +1,13 @@
+Change Component DesignItemId : Designator=L2 Old DesignItemId=MWSA0518S New DesignItemId=MWSA0603S-4R7MT
+Change Component Footprint: Designator=L2 Old Footprint=MWSA0518S New Footprint=MWSA0603S
+Change Component Description : Designator=L2 Old Description=Power Inductor SMD Sunlord MWSA0603S New Description=Fixed Ind 4.7UH 6A 33 Mohm SMD
+Change Component Library : Designator=L2 Old Library=Line Follower.IntLib New Library=Line Follower.SchLib
+Change component parameters: Designator = "L2" ("L2"); Footprint = "MWSA0518S"; UniqueID = "\VADRTCOL" ("\VADRTCOL")
+Change component parameters (AddParameter): Name = "LCSC#"; Value = "C408447"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Sunlord"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "MWSA0603S-4R7MT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.24, 10=1.149, 25=1.0604, 50=0.8838, 100=0.8307, 250=0.74236, 500=0.6363 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "1109"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3442-MWSA0603S-4R7MTCT-ND"; VariantName = "[No Variations]"

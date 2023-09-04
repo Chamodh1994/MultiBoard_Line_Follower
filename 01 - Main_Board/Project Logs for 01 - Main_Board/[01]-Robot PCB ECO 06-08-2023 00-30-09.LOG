@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DIR_M1 Pin=U11-2
+Removed Pin From Net: NetName=MOTOR_FAULT Pin=U11-4
+Added Pin To Net: NetName=MOTOR_FAULT Pin=U11-33
+Added Pin To Net: NetName=DIR_M1 Pin=U11-34

@@ -1,0 +1,1893 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 29 67.79999902 58.79999924 270 N TP10 _1.0mm,SMD ;0=1,1=0.0000
+PRP Artikkelnr_Noca 'N.A.'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Connectors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc 'TP_SMD_Ø1.0mm'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2021-03-05'
+PRP Manufacturer 'Nordic Semiconductor'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note 'N.A.'
+PRP Pad_Count '1'
+PRP Part_Number 'TP_SMD_Ø1.0MM'
+PRP Part_number_IPS 'N.A.'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100500475'
+PRP Pin_Count '1'
+PRP Published '2013-06-11'
+PRP Publisher 'Nordic Semiconductor'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value 'Ø1.0mm,SMD'
+TOP 0 67.79999902 58.79999924 270 N 15 2 TP10-1
+#
+# CMP 1
+CMP 29 67.79999902 57.0000003 270 N TP9 _1.0mm,SMD ;0=1,1=0.0000
+PRP Artikkelnr_Noca 'N.A.'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Connectors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc 'TP_SMD_Ø1.0mm'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2021-03-05'
+PRP Manufacturer 'Nordic Semiconductor'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note 'N.A.'
+PRP Pad_Count '1'
+PRP Part_Number 'TP_SMD_Ø1.0MM'
+PRP Part_number_IPS 'N.A.'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100500475'
+PRP Pin_Count '1'
+PRP Published '2013-06-11'
+PRP Publisher 'Nordic Semiconductor'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value 'Ø1.0mm,SMD'
+TOP 0 67.79999902 57.0000003 270 N 16 2 TP9-1
+#
+# CMP 2
+CMP 29 59.40000058 57.80000124 270 N TP8 _1.0mm,SMD ;0=1,1=0.0000
+PRP Artikkelnr_Noca 'N.A.'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Connectors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc 'TP_SMD_Ø1.0mm'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2021-03-05'
+PRP Manufacturer 'Nordic Semiconductor'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note 'N.A.'
+PRP Pad_Count '1'
+PRP Part_Number 'TP_SMD_Ø1.0MM'
+PRP Part_number_IPS 'N.A.'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100500475'
+PRP Pin_Count '1'
+PRP Published '2013-06-11'
+PRP Publisher 'Nordic Semiconductor'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value 'Ø1.0mm,SMD'
+TOP 0 59.40000058 57.80000124 270 N 20 2 TP8-1
+#
+# CMP 3
+CMP 29 60.40000112 56.29999916 270 N TP7 _1.0mm,SMD ;0=1,1=0.0000
+PRP Artikkelnr_Noca 'N.A.'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Connectors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc 'TP_SMD_Ø1.0mm'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2021-03-05'
+PRP Manufacturer 'Nordic Semiconductor'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note 'N.A.'
+PRP Pad_Count '1'
+PRP Part_Number 'TP_SMD_Ø1.0MM'
+PRP Part_number_IPS 'N.A.'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100500475'
+PRP Pin_Count '1'
+PRP Published '2013-06-11'
+PRP Publisher 'Nordic Semiconductor'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value 'Ø1.0mm,SMD'
+TOP 0 60.40000112 56.29999916 270 N 73 2 TP7-1
+#
+# CMP 4
+CMP 29 66.00000008 57.0000003 270 N TP6 _1.0mm,SMD ;0=1,1=0.0000
+PRP Artikkelnr_Noca 'N.A.'
+PRP Assembly ''
+PRP Author 'rsk'
+PRP Component_Class 'Connectors'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'N.A.'
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL 'N.A.'
+PRP Footprint_Doc 'TP_SMD_Ø1.0mm'
+PRP HelpURL 'N.A.'
+PRP LatestRevisionDate '2021-03-05'
+PRP Manufacturer 'Nordic Semiconductor'
+PRP Manufacturer_Part_Number 'N.A.'
+PRP Note 'N.A.'
+PRP Pad_Count '1'
+PRP Part_Number 'TP_SMD_Ø1.0MM'
+PRP Part_number_IPS 'N.A.'
+PRP Part_number_Norautron 'N.A.'
+PRP PartId '100500475'
+PRP Pin_Count '1'
+PRP Published '2013-06-11'
+PRP Publisher 'Nordic Semiconductor'
+PRP Supplier_1 'N.A.'
+PRP Supplier_2 'N.A.'
+PRP Supplier_Part_Number_1 'N.A.'
+PRP Supplier_Part_Number_2 'N.A.'
+PRP Value 'Ø1.0mm,SMD'
+TOP 0 66.00000008 57.0000003 270 N 74 3 TP6-1
+#
+# CMP 5
+CMP 2 86.59999952 22.89999992 0 N C1 10uF ;0=1,1=6.1000
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.nichicon.co.jp/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf'
+PRP ComponentLink3Description 'Package Specification'
+PRP ComponentLink3URL 'http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf'
+PRP DatasheetVersion '08/2012'
+PRP Diameter '4 mm'
+PRP Endurance_Time '2000 h'
+PRP Impedance '1.8 Ohm'
+PRP Length '5.8 mm'
+PRP Manufacturer 'Nichicon'
+PRP Mounting_Technology 'Surface Mount'
+PRP PackageDescription '2-Pin Surface Mount Device, Diameter 4 mm, Height 5.8 mm, Pitch 3.6 mm'
+PRP PackageReference 'CAPAE-D4H5.8'
+PRP Packing 'Dia382mm Reel'
+PRP PartNumber 'UUD1E100MCL1GS'
+PRP Rated_Capacitance '10 uF'
+PRP Rated_Ripple_Current_(at_100kHz) '80 mA'
+PRP Rated_Voltage '25 V'
+PRP RoHS 'TRUE'
+PRP Tolerance_Rated_Capacitance '-20 to 20%'
+TOP 0 84.80000058 22.89999992 90 N 4 11 C1-1
+TOP 1 88.39999846 22.89999992 90 N 91 128 C1-2
+#
+# CMP 6
+CMP 2 46.99999998 20.49999964 180 N C35 10uF ;0=1,1=6.1000
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.nichicon.co.jp/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf'
+PRP ComponentLink3Description 'Package Specification'
+PRP ComponentLink3URL 'http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf'
+PRP DatasheetVersion '08/2012'
+PRP Diameter '4 mm'
+PRP Endurance_Time '2000 h'
+PRP Impedance '1.8 Ohm'
+PRP Length '5.8 mm'
+PRP Manufacturer 'Nichicon'
+PRP Mounting_Technology 'Surface Mount'
+PRP PackageDescription '2-Pin Surface Mount Device, Diameter 4 mm, Height 5.8 mm, Pitch 3.6 mm'
+PRP PackageReference 'CAPAE-D4H5.8'
+PRP Packing 'Dia382mm Reel'
+PRP PartNumber 'UUD1E100MCL1GS'
+PRP Rated_Capacitance '10 uF'
+PRP Rated_Ripple_Current_(at_100kHz) '80 mA'
+PRP Rated_Voltage '25 V'
+PRP RoHS 'TRUE'
+PRP Tolerance_Rated_Capacitance '-20 to 20%'
+TOP 0 48.79999892 20.49999964 270 N 123 15 C35-1
+TOP 1 45.20000104 20.49999964 270 N 91 129 C35-2
+#
+# CMP 7
+CMP 2 79.50000102 20.49999964 0 N C42 10uF ;0=1,1=6.1000
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.nichicon.co.jp/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf'
+PRP ComponentLink3Description 'Package Specification'
+PRP ComponentLink3URL 'http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf'
+PRP DatasheetVersion '08/2012'
+PRP Diameter '4 mm'
+PRP Endurance_Time '2000 h'
+PRP Impedance '1.8 Ohm'
+PRP Length '5.8 mm'
+PRP Manufacturer 'Nichicon'
+PRP Mounting_Technology 'Surface Mount'
+PRP PackageDescription '2-Pin Surface Mount Device, Diameter 4 mm, Height 5.8 mm, Pitch 3.6 mm'
+PRP PackageReference 'CAPAE-D4H5.8'
+PRP Packing 'Dia382mm Reel'
+PRP PartNumber 'UUD1E100MCL1GS'
+PRP Rated_Capacitance '10 uF'
+PRP Rated_Ripple_Current_(at_100kHz) '80 mA'
+PRP Rated_Voltage '25 V'
+PRP RoHS 'TRUE'
+PRP Tolerance_Rated_Capacitance '-20 to 20%'
+TOP 0 77.70000208 20.49999964 90 N 123 16 C42-1
+TOP 1 81.29999996 20.49999964 90 N 91 130 C42-2
+#
+# CMP 8
+CMP 23 83.80000004 72.59999958 90 N R18 10K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 83.80000004 73.34999808 90 N 91 87 R18-1
+TOP 1 83.80000004 71.84999854 90 N 104 2 R18-2
+#
+# CMP 9
+CMP 23 58.20000044 72.59999958 90 N R17 10K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 58.20000044 73.34999808 90 N 91 88 R17-1
+TOP 1 58.20000044 71.84999854 90 N 105 1 R17-2
+#
+# CMP 10
+CMP 23 82.4000003 72.59999958 270 N R16 10K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 82.4000003 71.85000108 270 N 1 0 R16-1
+TOP 1 82.4000003 73.35000062 270 N 104 0 R16-2
+#
+# CMP 11
+CMP 23 55.40000096 72.59999958 270 N R15 10K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 55.40000096 71.85000108 270 N 2 0 R15-1
+TOP 1 55.40000096 73.35000062 270 N 105 0 R15-2
+#
+# CMP 12
+CMP 4 46.80000038 8.80000018 270 N X3 Pin_Header_6p ;0=2,1=0.0000
+PRP Category 'Connectors'
+PRP ComponentLink1Description 'https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.octopart.com/PPTC061LFBN-RC-Sullins-datasheet-41308905.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink2URL 'https://datasheet.octopart.com/PPTC061LFBN-RC-Sullins-datasheet-41308905.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink3Description 'http://www.sullinscorp.com/catalogs/78_Page80-81_HEADER_.100_2.54mm_FEMALE.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink3URL 'http://www.sullinscorp.com/catalogs/78_Page80-81_HEADER_.100_2.54mm_FEMALE.pdf?src-supplier=Future+Electronics'
+PRP LCSC# 'C40877'
+PRP Manufacturer 'Sullins'
+PRP Manufacturer_Part_Number 'PPTC061LFBN-RC'
+PRP Pricing_1 '1=0.52, 10=0.449, 80=0.3705, 440=0.3222, 1000=0.26582, 5000=0.2336, 10000=0.2327 (USD)'
+PRP RoHS 'Yes'
+PRP Stock_1 '23609'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'S7004-ND'
+TOP 0 46.80000038 2.45000018 270 N 0 2 X3-1
+TOP 1 46.80000038 4.99000018 270 N 118 10 X3-2
+TOP 2 46.80000038 7.53000018 270 N 91 39 X3-3
+TOP 3 46.80000038 10.07000018 270 N 107 0 X3-4
+TOP 4 46.80000038 12.61000018 270 N 106 0 X3-5
+TOP 5 46.80000038 15.15000018 270 N 0 3 X3-6
+#
+# CMP 13
+CMP 31 63.5 5.05000006 0 N J1 TYPE-C-31-M-12 ;0=1,1=0.0000
+PRP Manufacturer 'Koren Hroparts'
+PRP Manufacturer_Part_Number 'TYPE-C-31-M-12'
+TOP 0 60.29999878 8.04999914 0 N 91 99 J1-A1B12
+TOP 1 61.09999972 8.04999914 0 N 120 6 J1-A4B9
+TOP 2 62.24999996 7.89999944 0 N 49 1 J1-A5
+TOP 3 63.2500005 7.89999944 0 N 9 2 J1-A6
+TOP 4 63.7499995 7.89999944 0 N 10 2 J1-A7
+TOP 5 64.75000004 7.89999944 0 N 0 9 J1-A8
+TOP 6 66.70000122 8.04999914 0 N 91 100 J1-B1A12
+TOP 7 65.90000028 8.04999914 0 N 120 7 J1-B4A9
+TOP 8 65.24999904 7.89999944 0 N 48 1 J1-B5
+TOP 9 64.25000104 7.89999944 0 N 9 1 J1-B6
+TOP 10 62.74999896 7.89999944 0 N 10 1 J1-B7
+TOP 11 61.75000096 7.89999944 0 N 0 8 J1-B8
+TOP 12 66.39999928 6.6499994 0 N 0 0 J1-MH
+TOP 13 60.60000072 6.6499994 0 N 0 1 J1-MH
+TOP 14 59.17499976 7.1499984 270 N 91 35 J1-SH
+TOP 15 67.82500024 7.1499984 270 N 91 36 J1-SH
+TOP 16 67.82500024 2.94999918 270 N 91 37 J1-SH
+TOP 17 59.17499976 2.94999918 270 N 91 38 J1-SH
+#
+# CMP 14
+CMP 5 79.19999908 47.35999926 270 N J7 3X2_BergStrip ;0=2,1=10.0000
+PRP Alternate_Part_Number-1 'NA'
+PRP Case/Package 'TH'
+PRP Manufacturer 'NA'
+PRP Manufacturer_Part_Number 'NA'
+PRP Supplier_Part_Number-1 'NA'
+PRP Supplier-1 'SP ROAD'
+TOP 0 79.19999908 47.35999926 270 N 118 7 J7-1
+TOP 1 76.65999908 47.35999926 270 N 14 0 J7-2
+TOP 2 79.19999908 49.89999926 270 N 91 32 J7-3
+TOP 3 76.65999908 49.89999926 270 N 13 0 J7-4
+TOP 4 79.19999908 52.43999926 270 N 31 0 J7-5
+TOP 5 76.65999908 52.43999926 270 N 17 0 J7-6
+#
+# CMP 15
+CMP 24 75.49999886 6.0000007 270 N SB3 SB ;0=1,1=0.0000
+TOP 0 75.49999886 5.5000017 270 N 122 6 SB3-1
+TOP 1 75.49999886 6.4999997 270 N 5 3 SB3-2
+#
+# CMP 16
+CMP 24 78.20000108 30.79999936 90 N SB2 SB ;0=1,1=0.0000
+TOP 0 78.20000108 31.29999836 90 N 3 9 SB2-1
+TOP 1 78.20000108 30.30000036 90 N 123 14 SB2-2
+#
+# CMP 17
+CMP 24 84.80000058 26.20000094 270 N SB1 SB ;0=1,1=0.0000
+TOP 0 84.80000058 25.70000194 270 N 4 8 SB1-1
+TOP 1 84.80000058 26.69999994 270 N 118 35 SB1-2
+#
+# CMP 18
+CMP 23 86.10000052 3.70000022 270 N R22 100R ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 86.10000052 2.95000172 270 N 6 0 R22-1
+TOP 1 86.10000052 4.45000126 270 N 7 2 R22-2
+#
+# CMP 19
+CMP 23 73.10000112 6.1000005 0 N R20 100K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 72.35000262 6.1000005 0 N 7 0 R20-1
+TOP 1 73.85000216 6.1000005 0 N 5 2 R20-2
+#
+# CMP 20
+CMP 17 76.1500001 10.49999932 180 N Q3 AOD4185 ;0=1,1=2.3500
+PRP Category 'Transistors'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/951/aod4185-951090.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/951/aod4185-951090.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/6384/aod4185-6384890.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/6384/aod4185-6384890.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/6384/aod4185-6384893.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/6384/aod4185-6384893.pdf?src-supplier=Digi-Key'
+PRP LCSC# 'C400894'
+PRP Manufacturer 'Alpha & Omega Semiconductor'
+PRP Manufacturer_Part_Number 'AOD4185'
+PRP Pricing_1 '1=0.8184, 10=0.7205, 25=0.7134, 100=0.5449, 250=0.5394, 500=0.424, 1000=0.3369, 3000=0.3025 (USD)'
+PRP RoHS 'Yes'
+PRP Stock_1 '3171'
+PRP Supplier_1 'Arrow Electronics'
+PRP Supplier_Part_Number_1 'AOD4185'
+TOP 0 80.89999822 8.2199988 90 N 7 3 Q3-1
+TOP 1 80.89999822 12.77999984 90 N 109 15 Q3-2
+TOP 2 73.79999972 10.49999932 90 N 5 4 Q3-3
+#
+# CMP 21
+CMP 1 87.40000046 3.70000022 270 N C63 100n ;0=1,1=0.0000
+TOP 0 87.40000046 2.95000172 270 N 91 44 C63-1
+TOP 1 87.40000046 4.45000126 270 N 7 1 C63-2
+#
+# CMP 22
+CMP 1 68.69999976 33.29999944 270 N C62 100n ;0=1,1=0.0000
+TOP 0 68.69999976 32.55000094 270 N 91 55 C62-1
+TOP 1 68.69999976 34.05000048 270 N 80 1 C62-2
+#
+# CMP 23
+CMP 1 53.69999928 33.29999944 90 N C61 100n ;0=1,1=0.0000
+TOP 0 53.69999928 34.04999794 90 N 91 61 C61-1
+TOP 1 53.69999928 32.5499984 90 N 86 0 C61-2
+#
+# CMP 24
+CMP 5 50.9999996 27.50000088 180 N J2 3X2_BergStrip ;0=2,1=10.0000
+PRP Alternate_Part_Number-1 'NA'
+PRP Case/Package 'TH'
+PRP Manufacturer 'NA'
+PRP Manufacturer_Part_Number 'NA'
+PRP Supplier_Part_Number-1 'NA'
+PRP Supplier-1 'SP ROAD'
+TOP 0 50.9999996 27.50000088 180 N 82 1 J2-1
+TOP 1 50.9999996 24.96000088 180 N 81 1 J2-2
+TOP 2 48.4599996 27.50000088 180 N 85 0 J2-3
+TOP 3 48.4599996 24.96000088 180 N 84 0 J2-4
+TOP 4 45.9199996 27.50000088 180 N 118 8 J2-5
+TOP 5 45.9199996 24.96000088 180 N 91 33 J2-6
+#
+# CMP 25
+CMP 33 64.89999974 54.50000022 0 N X2 XTAL_3225 ;0=1,1=0.0000
+PRP #LCSC 'C9006'
+PRP Distributor_Link ''
+PRP Manufacturer 'Yangxing Tech'
+PRP Manufacturer_Part_Number 'X322525MOB4SI'
+PRP Value '25MHz'
+TOP 0 63.7499995 53.55000212 0 N 58 2 X2-1
+TOP 1 66.04999998 53.55000212 0 N 91 114 X2-2
+TOP 2 66.04999998 55.45000086 0 N 57 1 X2-3
+TOP 3 63.7499995 55.45000086 0 N 91 113 X2-4
+#
+# CMP 26
+CMP 13 63.5 44.4000001 90 N U11 STM32F446RET6 ;0=1,1=0.0000
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'IC'
+PRP ComponentLink1Description 'http://www.mouser.com/ds/2/389/stm32f446mc-956216.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'http://www.mouser.com/ds/2/389/stm32f446mc-956216.pdf?src-supplier=Mouser'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.st.com/en/microcontrollers-microprocessors/stm32f446re.html'
+PRP ComponentLink3Description 'http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Farnell'
+PRP ComponentLink3URL 'http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Farnell'
+PRP ComponentLink4Description 'https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-58295083.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink4URL 'https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-58295083.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink5Description 'http://www.st.com/content/ccc/resource/technical/document/datasheet/65/cb/75/50/53/d6/48/24/DM00141306.pdf/files/DM00141306.pdf/jcr:content/translations/en.DM00141306.pdf?src-supplier=Digi-Key'
+PRP ComponentLink5URL 'http://www.st.com/content/ccc/resource/technical/document/datasheet/65/cb/75/50/53/d6/48/24/DM00141306.pdf/files/DM00141306.pdf/jcr:content/translations/en.DM00141306.pdf?src-supplier=Digi-Key'
+PRP ComponentLink6Description 'http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Element14'
+PRP ComponentLink6URL 'http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Element14'
+PRP ComponentLink7Description 'https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-41797127.pdf?src-supplier=Element14'
+PRP ComponentLink7URL 'https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-41797127.pdf?src-supplier=Element14'
+PRP ComponentLink8Description 'http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Newark'
+PRP ComponentLink8URL 'http://www.farnell.com/datasheets/2309063.pdf?src-supplier=Newark'
+PRP ComponentLink9Description 'https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-83961502.pdf?src-supplier=SHENGYU+ELECTRONICS'
+PRP ComponentLink9URL 'https://datasheet.octopart.com/STM32F446RET6-STMicroelectronics-datasheet-83961502.pdf?src-supplier=SHENGYU+ELECTRONICS'
+PRP Core_Architecture 'ARM Cortex-M4'
+PRP Data_Bus_Width '32bits'
+PRP Device_Class_L1 'Integrated Circuits (ICs)'
+PRP Device_Class_L2 'Embedded Processors and Controllers'
+PRP Device_Class_L3 'Microcontrollers'
+PRP Digikey_Description 'IC MCU 32BIT 512KB FLASH 64LQFP'
+PRP Frequency '180MHz'
+PRP Height '1.6mm'
+PRP Interface 'I2C,SPI,UART,USART,CAN,USB,LIN,IrDA,I2S,Other'
+PRP Ipc_Land_Pattern_Name 'QFP50P1200X1200X160-64'
+PRP LCSC# 'C69336'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'ST'
+PRP Manufacturer_Part_Number 'STM32F446RET6'
+PRP Max_Junction_Temp '+105°C'
+PRP Max_Supply_Voltage '3.6V'
+PRP Memory_Size '512KBytes'
+PRP Memory_Type 'FLASH'
+PRP Min_Supply_Voltage '1.7V'
+PRP Mouser_Description 'ARM Microcontrollers - MCU High-performance and DSP with FP, ARM Cortex-M4 MCU with 512 Kbytes Flash, 180 MHz CPU, Art Accelerator, SDRAM'
+PRP Number_Of_A/D_Converters '3'
+PRP Number_Of_Adc_Channels '16'
+PRP Number_Of_Cores '1'
+PRP Number_Of_I2C_Channels '4'
+PRP Number_Of_I/Os '50'
+PRP Number_Of_Pwm_Channels '32'
+PRP Number_Of_Spi_Channels '4'
+PRP Number_Of_Timers/Counters '14'
+PRP Number_Of_Uart_Channels '6'
+PRP Number_Of_Usb_Channels '2'
+PRP Octopart 'https://octopart.com/stm32f446ret6-stmicroelectronics-52642920'
+PRP Package 'LQFP64-5W'
+PRP Pricing_1 '1=12.45, 10=11.25, 50=10.54, 100=9.5, 1000=6.72, 10000=6.72 (USD)'
+PRP Ram_Size '128KBytes'
+PRP RoHS 'TRUE'
+PRP Standoff_Height '0.05mm'
+PRP Stock_1 '22'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '511-STM32F446RET6'
+PRP Temperature '-40°C to +105°C'
+PRP Temperature_Range_High '+105°C'
+PRP Temperature_Range_Low '-40°C'
+TOP 0 67.25000012 50.02548288 90 N 55 1 U11-1
+TOP 1 66.75000112 50.02548288 90 N 88 1 U11-2
+TOP 2 66.24999958 50.02548288 90 N 0 21 U11-3
+TOP 3 65.75000058 50.02548288 90 N 0 20 U11-4
+TOP 4 65.24999904 50.02548288 90 N 57 2 U11-5
+TOP 5 64.75000004 50.02548288 90 N 33 1 U11-6
+TOP 6 64.25000104 50.02548288 90 N 31 4 U11-7
+TOP 7 63.7499995 50.02548288 90 N 22 0 U11-8
+TOP 8 63.2500005 50.02548288 90 N 23 0 U11-9
+TOP 9 62.74999896 50.02548288 90 N 24 0 U11-10
+TOP 10 62.24999996 50.02548288 90 N 25 0 U11-11
+TOP 11 61.75000096 50.02548288 90 N 91 146 U11-12
+TOP 12 61.24999942 50.02548288 90 N 56 5 U11-13
+TOP 13 60.75000042 50.02548288 90 N 29 0 U11-14
+TOP 14 60.24999888 50.02548288 90 N 28 0 U11-15
+TOP 15 59.74999988 50.02548288 90 N 27 0 U11-16
+TOP 16 57.87451722 48.15000022 90 N 26 0 U11-17
+TOP 17 57.87451722 47.65000122 90 N 91 144 U11-18
+TOP 18 57.87451722 47.14999968 90 N 118 41 U11-19
+TOP 19 57.87451722 46.65000068 90 N 2 1 U11-20
+TOP 20 57.87451722 46.14999914 90 N 1 1 U11-21
+TOP 21 57.87451722 45.65000014 90 N 30 0 U11-22
+TOP 22 57.87451722 45.15000114 90 N 87 1 U11-23
+TOP 23 57.87451722 44.6499996 90 N 89 1 U11-24
+TOP 24 57.87451722 44.1500006 90 N 90 1 U11-25
+TOP 25 57.87451722 43.64999906 90 N 86 3 U11-26
+TOP 26 57.87451722 43.15000006 90 N 80 3 U11-27
+TOP 27 57.87451722 42.65000106 90 N 93 1 U11-28
+TOP 28 57.87451722 42.14999952 90 N 20 0 U11-29
+TOP 29 57.87451722 41.65000052 90 N 54 1 U11-30
+TOP 30 57.87451722 41.14999898 90 N 91 143 U11-31
+TOP 31 57.87451722 40.64999998 90 N 118 40 U11-32
+TOP 32 59.74999988 38.77451732 90 N 72 4 U11-33
+TOP 33 60.24999888 38.77451732 90 N 103 1 U11-34
+TOP 34 60.75000042 38.77451732 90 N 74 0 U11-35
+TOP 35 61.24999942 38.77451732 90 N 73 0 U11-36
+TOP 36 61.75000096 38.77451732 90 N 16 0 U11-37
+TOP 37 62.24999996 38.77451732 90 N 8 3 U11-38
+TOP 38 62.74999896 38.77451732 90 N 15 0 U11-39
+TOP 39 63.2500005 38.77451732 90 N 83 1 U11-40
+TOP 40 63.7499995 38.77451732 90 N 77 1 U11-41
+TOP 41 64.25000104 38.77451732 90 N 0 19 U11-42
+TOP 42 64.75000004 38.77451732 90 N 0 18 U11-43
+TOP 43 65.24999904 38.77451732 90 N 12 1 U11-44
+TOP 44 65.75000058 38.77451732 90 N 11 1 U11-45
+TOP 45 66.24999958 38.77451732 90 N 13 1 U11-46
+TOP 46 66.75000112 38.77451732 90 N 91 145 U11-47
+TOP 47 67.25000012 38.77451732 90 N 118 42 U11-48
+TOP 48 69.12548278 40.64999998 90 N 14 1 U11-49
+TOP 49 69.12548278 41.14999898 90 N 92 1 U11-50
+TOP 50 69.12548278 41.65000052 90 N 106 1 U11-51
+TOP 51 69.12548278 42.14999952 90 N 107 1 U11-52
+TOP 52 69.12548278 42.65000106 90 N 102 1 U11-53
+TOP 53 69.12548278 43.15000006 90 N 0 17 U11-54
+TOP 54 69.12548278 43.64999906 90 N 17 1 U11-55
+TOP 55 69.12548278 44.1500006 90 N 0 16 U11-56
+TOP 56 69.12548278 44.6499996 90 N 0 15 U11-57
+TOP 57 69.12548278 45.15000114 90 N 19 2 U11-58
+TOP 58 69.12548278 45.65000014 90 N 18 2 U11-59
+TOP 59 69.12548278 46.14999914 90 N 32 1 U11-60
+TOP 60 69.12548278 46.65000068 90 N 0 14 U11-61
+TOP 61 69.12548278 47.14999968 90 N 0 13 U11-62
+TOP 62 69.12548278 47.65000122 90 N 91 142 U11-63
+TOP 63 69.12548278 48.15000022 90 N 118 39 U11-64
+#
+# CMP 27
+CMP 20 47.59999878 45.50000044 90 N SW3 MSK12C02-HB ;0=1,1=0.0000
+PRP Actuator_Length '1.5mm'
+PRP Actuator_Material 'Nylon'
+PRP Actuator_Type 'Standard'
+PRP Contact_Current_Rating '300mA'
+PRP Contact_Material 'Copper Alloy'
+PRP Contact_Plating 'Silver'
+PRP Contact_Resistance '70mR'
+PRP Current_Rating '300mA'
+PRP Depth '5mm'
+PRP Insulation_Resistance '100mR'
+PRP LCSC# 'C431541'
+PRP Lead_Free 'Lead Free'
+PRP Length '7.7mm'
+PRP Max_Current_Rating '50mA'
+PRP Max_Operating_Temperature '85°C'
+PRP Max_Voltage_Rating_(DC) '12v'
+PRP Mechanical_Life '10000Cycles'
+PRP Min_Operating_Temperature '-20°C'
+PRP Mount 'Surface Mount'
+PRP Orientation 'Right Angle'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP REACH_SVHC 'No SVHC'
+PRP Switch_Function 'On-On'
+PRP Switch_Travel '1.5mm'
+PRP Termination 'Gull Wing'
+PRP Throw_Configuration 'SPDT'
+PRP Voltage_Rating_(DC) '12v'
+PRP Width '6.7mm'
+TOP 0 49.84999936 47.75000102 90 N 118 36 SW3-1
+TOP 1 49.84999936 44.7499994 90 N 108 1 SW3-2
+TOP 2 49.84999936 43.24999986 90 N 91 122 SW3-3
+TOP 3 48.74999902 49.15000076 90 N 91 121 SW3-4
+TOP 4 48.74999902 41.85000012 90 N 91 120 SW3-5
+TOP 5 46.44999854 49.15000076 90 N 91 119 SW3-6
+TOP 6 46.44999854 41.85000012 90 N 91 118 SW3-7
+TOP 7 47.59999878 46.99999998 90 N 0 5 SW3-empty-1
+TOP 8 47.59999878 44.0000009 90 N 0 4 SW3-empty-2
+#
+# CMP 28
+CMP 8 48.10000032 55.60000056 180 N SW2 DTSM-3 ;0=1,1=0.0000
+PRP #LCSC 'C483881'
+PRP Manufacturer 'Diptronics'
+PRP Manufacturer_Part_Number 'DTSM-31S-V-T/R'
+TOP 0 50.8 55.60000056 180 N 31 1 SW2-1
+TOP 1 45.40000064 55.60000056 180 N 91 92 SW2-2
+#
+# CMP 29
+CMP 23 47.40000172 39.89999894 180 N R45 1K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 48.15000022 39.89999894 180 N 89 0 R45-1
+TOP 1 46.65000068 39.89999894 180 N 43 1 R45-2
+#
+# CMP 30
+CMP 23 44.50000244 39.89999894 180 N R44 1K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 45.25000094 39.89999894 180 N 87 0 R44-1
+TOP 1 43.7500014 39.89999894 180 N 44 1 R44-2
+#
+# CMP 31
+CMP 23 49.30000046 37.09999946 90 N R43 1K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 49.30000046 37.84999796 90 N 90 0 R43-1
+TOP 1 49.30000046 36.34999842 90 N 45 0 R43-2
+#
+# CMP 32
+CMP 23 46.60000078 51.1999992 270 N R42 10K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 46.60000078 50.4500007 270 N 108 0 R42-1
+TOP 1 46.60000078 51.95000024 270 N 32 0 R42-2
+#
+# CMP 33
+CMP 23 63.7999994 51.80000054 0 N R41 280R ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 63.0500009 51.80000054 0 N 58 0 R41-1
+TOP 1 64.55000044 51.80000054 0 N 33 0 R41-2
+#
+# CMP 34
+CMP 23 50.0500015 51.60000094 180 N R40 4.7K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 50.8 51.60000094 180 N 31 3 R40-1
+TOP 1 49.30000046 51.60000094 180 N 118 31 R40-2
+#
+# CMP 35
+CMP 23 62.00000046 34.29999998 0 N R39 4.7K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 61.25000196 34.29999998 0 N 91 58 R39-1
+TOP 1 62.7500015 34.29999998 0 N 8 1 R39-2
+#
+# CMP 36
+CMP 23 62.00000046 32.90000024 180 N R38 4.7K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 62.74999896 32.90000024 180 N 8 0 R38-1
+TOP 1 61.24999942 32.90000024 180 N 109 7 R38-2
+#
+# CMP 37
+CMP 23 72.30000018 46.80000038 180 N R37 4.7K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 73.04999868 46.80000038 180 N 18 1 R37-1
+TOP 1 71.54999914 46.80000038 180 N 118 25 R37-2
+#
+# CMP 38
+CMP 23 72.30000018 44.2000005 180 N R36 4.7K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 73.04999868 44.2000005 180 N 19 1 R36-1
+TOP 1 71.54999914 44.2000005 180 N 118 23 R36-2
+#
+# CMP 39
+CMP 0 45.89999964 37.09999946 0 N LED1 150141M173100 ;0=1,1=1.9000
+PRP Color 'Red & Green & Blue'
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.we-online.com'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://katalog.we-online.com/led/datasheet/150141M173100.pdf'
+PRP Manufacturer 'Wuerth Elektronik'
+PRP PackageReference '3528_A'
+PRP PartNumber '150141M173100'
+TOP 0 47.44999908 37.80749868 270 N 118 34 LED1-1
+TOP 1 47.44999908 36.38999834 270 N 45 1 LED1-2
+TOP 2 44.3500002 37.80749868 270 N 44 0 LED1-3
+TOP 3 44.3500002 36.39250024 270 N 43 0 LED1-4
+#
+# CMP 40
+CMP 9 55.92500118 51.50000114 0 N FB3 FB0805 ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP LCSC 'C370580'
+PRP Manufacturer 'Sunlord'
+PRP Manufacturer_Part_Number 'UPZ2012E101-4R0TF'
+TOP 0 54.97500054 51.50000114 0 N 118 13 FB3-1
+TOP 1 56.87500182 51.50000114 0 N 56 1 FB3-2
+#
+# CMP 41
+CMP 1 62.00000046 35.69999972 0 N C60 100n ;0=1,1=0.0000
+TOP 0 61.25000196 35.69999972 0 N 91 59 C60-1
+TOP 1 62.7500015 35.69999972 0 N 8 2 C60-2
+#
+# CMP 42
+CMP 1 54.50000022 41.90000002 0 N C59 2.2u ;0=1,1=0.0000
+TOP 0 53.75000172 41.90000002 0 N 91 96 C59-1
+TOP 1 55.25000126 41.90000002 0 N 54 0 C59-2
+#
+# CMP 43
+CMP 1 68.00000116 51.90000034 180 N C58 100n ;0=1,1=0.0000
+TOP 0 68.74999966 51.90000034 180 N 91 75 C58-1
+TOP 1 67.25000012 51.90000034 180 N 55 0 C58-2
+#
+# CMP 44
+CMP 1 58.79999924 54.10000102 90 N C57 100n ;0=1,1=0.0000
+TOP 0 58.79999924 54.84999952 90 N 91 76 C57-1
+TOP 1 58.79999924 53.34999998 90 N 56 2 C57-2
+#
+# CMP 45
+CMP 1 60.19999898 54.10000102 90 N C56 1u ;0=1,1=0.0000
+TOP 0 60.19999898 54.84999952 90 N 91 77 C56-1
+TOP 1 60.19999898 53.34999998 90 N 56 3 C56-2
+#
+# CMP 46
+CMP 3 56.7000009 55.89999996 270 N C55 T491A106K010AT ;0=1,1=1.8000
+PRP Capacitance '10µF'
+PRP Catalog_Drawings 'T49x,T5xxSeries_A-side1T49x,T5xxSeries_A,B-side2T49x,T5xxSeries_A,SBottom'
+PRP Category 'Capacitors'
+PRP Datasheet_URL 'http://www.farnell.com/datasheets/1824869.pdf'
+PRP Datasheet_Version 'Apr-14'
+PRP ESR_(Equivalent_Series_Resistance) '3.8Ohm'
+PRP Family 'TantalumCapacitors'
+PRP Features 'GeneralPurpose'
+PRP Height_-_Seated_(Max) '0.071_(1.80mm)'
+PRP Lead_Spacing '-'
+PRP Lifetime_@_Temp. '2000Hrs@85degC'
+PRP Manufacturer 'Kemet'
+PRP Manufacturer_Size_Code 'A'
+PRP Manufacturer_URL 'http://www.kemet.com/'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'T491Series'
+PRP Operating_Temperature '-55degC~125degC'
+PRP Other_Names '399-3684-2'
+PRP Package_/_Case '1206(3216Metric)'
+PRP Package_Description '2-Pin Surface Mount Device, Body 3.2 x 1.6 mm'
+PRP Package_Reference '1206'
+PRP Packaging 'Tape&Reel(TR)'
+PRP Product_Training_Modules 'CapacitorBasics-TypicalUsesforCapacitorsDeratingGuidelinesforSurfaceMountTantalumCapacitors'
+PRP Series 'T491'
+PRP Size_/_Dimension '0.126_Lx0.063_W(3.20mmx1.60mm)'
+PRP Standard_Package '2,000'
+PRP Tolerance '±10%'
+PRP Type 'Molded'
+PRP Voltage_-_Rated '10V'
+TOP 0 56.7000009 54.67500114 180 N 56 4 C55-1
+TOP 1 56.7000009 57.12500132 180 N 91 131 C55-2
+#
+# CMP 47
+CMP 1 72.30000018 48.20000012 180 N C54 100n ;0=1,1=0.0000
+TOP 0 73.04999868 48.20000012 180 N 91 72 C54-1
+TOP 1 71.54999914 48.20000012 180 N 118 24 C54-2
+#
+# CMP 48
+CMP 1 67.39999982 35.89999932 270 N C53 100n ;0=1,1=0.0000
+TOP 0 67.39999982 35.15000082 270 N 91 57 C53-1
+TOP 1 67.39999982 36.65000036 270 N 118 17 C53-2
+#
+# CMP 49
+CMP 1 54.50000022 40.60000008 0 N C52 100n ;0=1,1=0.0000
+TOP 0 53.75000172 40.60000008 0 N 91 95 C52-1
+TOP 1 55.25000126 40.60000008 0 N 118 33 C52-2
+#
+# CMP 50
+CMP 1 54.10000102 47.09999978 0 N C51 100n ;0=1,1=0.0000
+TOP 0 53.35000252 47.09999978 0 N 91 94 C51-1
+TOP 1 54.85000206 47.09999978 0 N 118 32 C51-2
+#
+# CMP 51
+CMP 3 53.49999968 38.599999 180 N C50 T491A106K010AT ;0=1,1=1.8000
+PRP Capacitance '10µF'
+PRP Catalog_Drawings 'T49x,T5xxSeries_A-side1T49x,T5xxSeries_A,B-side2T49x,T5xxSeries_A,SBottom'
+PRP Category 'Capacitors'
+PRP Datasheet_URL 'http://www.farnell.com/datasheets/1824869.pdf'
+PRP Datasheet_Version 'Apr-14'
+PRP ESR_(Equivalent_Series_Resistance) '3.8Ohm'
+PRP Family 'TantalumCapacitors'
+PRP Features 'GeneralPurpose'
+PRP Height_-_Seated_(Max) '0.071_(1.80mm)'
+PRP Lead_Spacing '-'
+PRP Lifetime_@_Temp. '2000Hrs@85degC'
+PRP Manufacturer 'Kemet'
+PRP Manufacturer_Size_Code 'A'
+PRP Manufacturer_URL 'http://www.kemet.com/'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'T491Series'
+PRP Operating_Temperature '-55degC~125degC'
+PRP Other_Names '399-3684-2'
+PRP Package_/_Case '1206(3216Metric)'
+PRP Package_Description '2-Pin Surface Mount Device, Body 3.2 x 1.6 mm'
+PRP Package_Reference '1206'
+PRP Packaging 'Tape&Reel(TR)'
+PRP Product_Training_Modules 'CapacitorBasics-TypicalUsesforCapacitorsDeratingGuidelinesforSurfaceMountTantalumCapacitors'
+PRP Series 'T491'
+PRP Size_/_Dimension '0.126_Lx0.063_W(3.20mmx1.60mm)'
+PRP Standard_Package '2,000'
+PRP Tolerance '±10%'
+PRP Type 'Molded'
+PRP Voltage_-_Rated '10V'
+TOP 0 54.7249985 38.599999 90 N 118 37 C50-1
+TOP 1 52.27499832 38.599999 90 N 91 132 C50-2
+#
+# CMP 52
+CMP 1 67.69999922 54.69999982 270 N C49 22p ;0=1,1=0.0000
+TOP 0 67.69999922 53.95000132 270 N 91 74 C49-1
+TOP 1 67.69999922 55.45000086 270 N 57 0 C49-2
+#
+# CMP 53
+CMP 1 61.90000066 54.30000062 90 N C48 22p ;0=1,1=0.0000
+TOP 0 61.90000066 55.04999912 90 N 91 78 C48-1
+TOP 1 61.90000066 53.54999958 90 N 58 1 C48-2
+#
+# CMP 54
+CMP 1 50.04999896 53.00000068 0 N C47 100n ;0=1,1=0.0000
+TOP 0 49.30000046 53.00000068 0 N 91 93 C47-1
+TOP 1 50.8 53.00000068 0 N 31 2 C47-2
+#
+# CMP 55
+CMP 23 57.3999995 6.3999999 90 N R7 5.1K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 57.3999995 7.1499984 90 N 91 65 R7-1
+TOP 1 57.3999995 5.64999886 90 N 49 0 R7-2
+#
+# CMP 56
+CMP 23 69.6000005 6.3999999 90 N R6 5.1K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 69.6000005 7.1499984 90 N 91 43 R6-1
+TOP 1 69.6000005 5.64999886 90 N 48 0 R6-2
+#
+# CMP 57
+CMP 9 59.40000058 14.40000168 270 N FB1 FB0805 ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP LCSC 'C370580'
+PRP Manufacturer 'Sunlord'
+PRP Manufacturer_Part_Number 'UPZ2012E101-4R0TF'
+TOP 0 59.40000058 13.45000104 270 N 120 5 FB1-1
+TOP 1 59.40000058 15.35000232 270 N 121 2 FB1-2
+#
+# CMP 58
+CMP 27 63.99999646 11.30000026 0 N D4 USBLC6-2SC6 ;0=1,1=0.0000
+PRP Distributor_Link 'https://www.mouser.de/ProductDetail/STMicroelectronics/USBLC6-2SC6?qs=po45yt2pPpu%2FhNIlwQdTlg%3D%3D'
+PRP Manufacturer 'STMicroelectronics'
+PRP Manufacturer_Part_Number 'USBLC6-2SC6'
+TOP 0 63.04999836 10.10000012 0 N 10 0 D4-1
+TOP 1 63.999999 10.10000012 0 N 91 67 D4-2
+TOP 2 64.9499971 10.10000012 0 N 9 0 D4-3
+TOP 3 64.9499971 12.5000004 0 N 11 0 D4-4
+TOP 4 63.999999 12.5000004 0 N 120 4 D4-5
+TOP 5 63.04999836 12.5000004 0 N 12 0 D4-6
+#
+# CMP 59
+CMP 1 57.649999 14.15000218 270 N C13 100n ;0=1,1=0.0000
+TOP 0 57.649999 13.40000368 270 N 91 102 C13-1
+TOP 1 57.649999 14.90000322 270 N 121 4 C13-2
+#
+# CMP 60
+CMP 1 60.34999868 10.10000012 0 N C12 100n ;0=1,1=0.0000
+TOP 0 59.60000018 10.10000012 0 N 91 66 C12-1
+TOP 1 61.09999972 10.10000012 0 N 120 3 C12-2
+#
+# CMP 61
+CMP 6 63.5 68.40000036 180 N X1 16P_0.5MM ;0=1,1=0.0000
+PRP Actuator_Material 'Nylon,Polyamide'
+PRP Category 'FFC / FPC'
+PRP ComponentLink1Description 'https://www.hirose.com/product/en/download_file/key_name/FH34SRJ/category/Catalog/doc_file_id/31646/?file_category_id=4&item_id=27&is_series=1&src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://www.hirose.com/product/en/download_file/key_name/FH34SRJ/category/Catalog/doc_file_id/31646/?file_category_id=4&item_id=27&is_series=1&src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://www.hirose.com/product/download/?distributor=digikey&amp;type=specSheet&amp;lang=en&amp;num=FH34SRJ-16S-0.5SH(50)&src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://www.hirose.com/product/download/?distributor=digikey&amp;type=specSheet&amp;lang=en&amp;num=FH34SRJ-16S-0.5SH(50)&src-supplier=Digi-Key'
+PRP Contact_Material 'Bronze'
+PRP Contact_Plating 'Gold'
+PRP Current_Rating '500mA'
+PRP Flammability_Rating 'UL94 V-0'
+PRP Housing_Material 'Polymer'
+PRP LCSC# 'C324725'
+PRP Manufacturer 'Hirose'
+PRP Manufacturer_Part_Number 'FH34SRJ-16S-0.5SH(50)'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '16'
+PRP Number_of_Positions '16'
+PRP Packaging 'Tape and Reel'
+PRP Pitch '0.02inch'
+PRP Pricing_1 '1=1.04, 10=0.878, 25=0.842, 50=0.8242, 100=0.7884, 250=0.71668, 500=0.64502, 1000=0.57336, 2500=0.5196 (USD)'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'FH34SRJ'
+PRP Stock_1 '2594'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'H125754CT-ND'
+PRP System 'Connector'
+PRP Termination 'Solder'
+PRP Voltage_Rating '50V'
+TOP 0 67.25000012 67.35499356 180 N 18 3 X1-1
+TOP 1 66.75000112 67.35499356 180 N 91 168 X1-2
+TOP 2 66.24999958 67.35499356 180 N 19 3 X1-3
+TOP 3 65.75000058 67.35499356 180 N 91 167 X1-4
+TOP 4 65.25000158 67.35499356 180 N 91 166 X1-5
+TOP 5 64.75000004 67.35499356 180 N 91 165 X1-6
+TOP 6 64.25000104 67.35499356 180 N 88 2 X1-7
+TOP 7 63.7499995 67.35499356 180 N 110 1 X1-8
+TOP 8 63.2500005 67.35499356 180 N 111 1 X1-9
+TOP 9 62.7500015 67.35499356 180 N 112 1 X1-10
+TOP 10 62.24999996 67.35499356 180 N 113 1 X1-11
+TOP 11 61.75000096 67.35499356 180 N 114 1 X1-12
+TOP 12 61.25000196 67.35499356 180 N 115 1 X1-13
+TOP 13 60.75000296 67.35499356 180 N 116 1 X1-14
+TOP 14 60.25000142 67.35499356 180 N 117 1 X1-15
+TOP 15 59.75000242 67.35499356 180 N 118 45 X1-16
+TOP 16 68.25000066 69.85499364 180 N 91 164 X1-17
+TOP 17 58.74999934 69.85499364 180 N 91 163 X1-18
+#
+# CMP 62
+CMP 14 71.00000024 27.50000088 90 N U10 DRV8874PWPR ;0=1,1=0.0000
+PRP LCSC# 'C1855818'
+PRP Manufacturer 'Texas Instruments'
+PRP Manufacturer_Part_Number 'DRV8874PWPR'
+PRP RoHS_Compliant 'Yes'
+TOP 0 73.2749995 30.40000016 90 N 92 0 U10-1
+TOP 1 72.6250008 30.40000016 90 N 102 0 U10-2
+TOP 2 71.97499956 30.40000016 90 N 0 11 U10-3
+TOP 3 71.32500086 30.40000016 90 N 72 2 U10-4
+TOP 4 70.67499962 30.40000016 90 N 35 2 U10-5
+TOP 5 70.02500092 30.40000016 90 N 80 2 U10-6
+TOP 6 69.37499968 30.40000016 90 N 34 1 U10-7
+TOP 7 68.72500098 30.40000016 90 N 76 2 U10-8
+TOP 8 68.72500098 24.6000016 90 N 91 134 U10-9
+TOP 9 69.37499968 24.6000016 90 N 75 2 U10-10
+TOP 10 70.02500092 24.6000016 90 N 123 17 U10-11
+TOP 11 70.67499962 24.6000016 90 N 59 2 U10-12
+TOP 12 71.32500086 24.6000016 90 N 60 2 U10-13
+TOP 13 71.97499956 24.6000016 90 N 61 2 U10-14
+TOP 14 72.6250008 24.6000016 90 N 91 135 U10-15
+TOP 15 73.2749995 24.6000016 90 N 91 136 U10-16
+TOP 16 71.00000024 27.50000088 90 N 91 137 U10-17
+#
+# CMP 63
+CMP 12 62.8000014 25.10000314 0 N U9 SN74LVC2G32QDCURQ1 ;0=1,1=0.0000
+PRP Case/Package 'VSSOP'
+PRP High_Level_Output_Current '32mA'
+PRP LCSC# 'C507251'
+PRP Lead_Free 'Lead Free'
+PRP Logic_Function 'OR GATE'
+PRP Low_Level_Output_Current '32mA'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Supply_Voltage '5.5V'
+PRP Min_Operating_Temperature '-40°C'
+PRP Min_Supply_Voltage '1.65V'
+PRP Mount 'Surface Mount'
+PRP Number_of_Bits '2'
+PRP Number_of_Circuits '2'
+PRP Number_of_Elements '2'
+PRP Number_of_Gates '2'
+PRP Number_of_Input_Lines '2'
+PRP Number_of_Inputs '2'
+PRP Number_of_Output_Lines '1'
+PRP Number_of_Outputs '1'
+PRP Number_of_Pins '8'
+PRP Output_Voltage '0V'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Propagation_Delay '4.7ns'
+PRP Quiescent_Current '10uA'
+PRP Radiation_Hardening 'No'
+PRP RoHS_Compliant 'Yes'
+PRP Series '74LVC'
+PRP Technology 'CMOS'
+PRP Turn-On_Delay_Time '3.8ns'
+PRP Weight '0.001058oz'
+TOP 0 61.4240834 25.85000418 0 N 85 1 U9-1
+TOP 1 61.4240834 25.35000264 0 N 84 1 U9-2
+TOP 2 61.4240834 24.85000364 0 N 83 0 U9-3
+TOP 3 61.4240834 24.3500021 0 N 91 133 U9-4
+TOP 4 64.1759194 24.3500021 0 N 79 1 U9-5
+TOP 5 64.1759194 24.85000364 0 N 78 1 U9-6
+TOP 6 64.1759194 25.35000264 0 N 77 0 U9-7
+TOP 7 64.1759194 25.85000418 0 N 118 38 U9-8
+#
+# CMP 64
+CMP 14 55.99999976 27.50000088 90 N U8 DRV8874PWPR ;0=1,1=0.0000
+PRP LCSC# 'C1855818'
+PRP Manufacturer 'Texas Instruments'
+PRP Manufacturer_Part_Number 'DRV8874PWPR'
+PRP RoHS_Compliant 'Yes'
+TOP 0 58.27499902 30.40000016 90 N 93 0 U8-1
+TOP 1 57.62500032 30.40000016 90 N 103 0 U8-2
+TOP 2 56.97499908 30.40000016 90 N 0 12 U8-3
+TOP 3 56.32500038 30.40000016 90 N 72 3 U8-4
+TOP 4 55.67499914 30.40000016 90 N 37 2 U8-5
+TOP 5 55.02500044 30.40000016 90 N 86 2 U8-6
+TOP 6 54.3749992 30.40000016 90 N 36 1 U8-7
+TOP 7 53.7250005 30.40000016 90 N 82 2 U8-8
+TOP 8 53.7250005 24.6000016 90 N 91 138 U8-9
+TOP 9 54.3749992 24.6000016 90 N 81 2 U8-10
+TOP 10 55.02500044 24.6000016 90 N 123 18 U8-11
+TOP 11 55.67499914 24.6000016 90 N 62 2 U8-12
+TOP 12 56.32500038 24.6000016 90 N 63 2 U8-13
+TOP 13 56.97499908 24.6000016 90 N 64 2 U8-14
+TOP 14 57.62500032 24.6000016 90 N 91 139 U8-15
+TOP 15 58.27499902 24.6000016 90 N 91 140 U8-16
+TOP 16 55.99999976 27.50000088 90 N 91 141 U8-17
+#
+# CMP 65
+CMP 28 63.5 60.90000012 0 N U7 LSM9DS1TR ;0=1,1=1.0270
+PRP Acceleration_Range '±2g,±4g,±8g,±16g'
+PRP Datasheet_URL 'http://www2.st.com/content/ccc/resource/technical/document/datasheet/1e/3f/2a/d6/25/eb/48/46/DM00103319.pdf/files/DM00103319.pdf/jcr:content/translations/en.DM00103319.pdf'
+PRP Datasheet_Version 'Rev. 3, 03/2015'
+PRP Gyroscope_Range '±245°/s,±500°/s,±2000°/s'
+PRP LCSC# 'C2655096'
+PRP Manufacturer 'STMicroelectronics'
+PRP Manufacturer_URL 'http://www.st.com/'
+PRP MEMS_Module_Function 'Tri-AxisGyroscope,Tri-AxisAccelerometer,Tri-AxisMagnetometer'
+PRP Mounting_Technology 'SurfaceMount'
+PRP MSL 'MSL3-168hours'
+PRP No._of_Pins '24Pins'
+PRP Package_Description '24-Pin Plastic Land Grid Array Package, Body 3.65 x 3.15 mm, Pitch 0.43 mm'
+PRP Package_Reference 'LGA-24_3500X3000X1000'
+PRP Packaging 'CutTape'
+PRP PartNumber 'LSM9DS1'
+PRP Product_Range '-'
+PRP Sensor_Case_Style 'LGA'
+PRP Supply_Voltage_Max '3.6V'
+PRP Supply_Voltage_Min '1.9V'
+PRP SVHC 'NoSVHC(17-Dec-2015)'
+TOP 0 61.99500174 62.1500027 0 N 65 14 U7-1
+TOP 1 61.99500174 61.5450001 90 N 20 1 U7-2
+TOP 2 61.99500174 61.11500096 90 N 65 11 U7-3
+TOP 3 61.99500174 60.68499928 90 N 73 1 U7-4
+TOP 4 61.99500174 60.25500014 90 N 74 2 U7-5
+TOP 5 61.99500174 59.65000262 0 N 74 1 U7-6
+TOP 6 62.42500088 59.65000262 0 N 16 1 U7-7
+TOP 7 62.85500002 59.65000262 0 N 15 1 U7-8
+TOP 8 63.2850017 59.65000262 0 N 0 25 U7-9
+TOP 9 63.71500084 59.65000262 0 N 0 26 U7-10
+TOP 10 64.14499998 59.65000262 0 N 0 27 U7-11
+TOP 11 64.57500166 59.65000262 0 N 0 28 U7-12
+TOP 12 65.0050008 59.65000262 0 N 0 29 U7-13
+TOP 13 65.0050008 60.25500014 90 N 91 156 U7-14
+TOP 14 65.0050008 60.68499928 90 N 91 157 U7-15
+TOP 15 65.0050008 61.11500096 90 N 91 158 U7-16
+TOP 16 65.0050008 61.5450001 90 N 91 159 U7-17
+TOP 17 65.0050008 62.1500027 0 N 91 160 U7-18
+TOP 18 64.57500166 62.1500027 0 N 91 161 U7-19
+TOP 19 64.14500252 62.1500027 0 N 91 162 U7-20
+TOP 20 63.71500084 62.1500027 0 N 66 1 U7-21
+TOP 21 63.2850017 62.1500027 0 N 65 12 U7-22
+TOP 22 62.85500256 62.1500027 0 N 65 13 U7-23
+TOP 23 62.42500088 62.1500027 0 N 67 1 U7-24
+#
+# CMP 66
+CMP 30 77.00000094 62.9000012 180 N U6 TMUX1574PWR ;0=1,1=0.0000
+PRP -3db_Bandwidth '2GHz'
+PRP Case/Package 'TSSOP'
+PRP LCSC# 'C2673443'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Number_of_Circuits '4'
+PRP On-State_Resistance '4.5R'
+PRP Packaging 'Cut Tape'
+PRP RoHS_Compliant 'Yes'
+TOP 0 79.82538518 60.62500194 180 N 30 1 U6-1
+TOP 1 79.82538518 61.27500064 180 N 113 0 U6-2
+TOP 2 79.82538518 61.92500188 180 N 97 0 U6-3
+TOP 3 79.82538518 62.57500058 180 N 25 1 U6-4
+TOP 4 79.82538518 63.22500182 180 N 112 0 U6-5
+TOP 5 79.82538518 63.87500052 180 N 96 0 U6-6
+TOP 6 79.82538518 64.52500176 180 N 24 1 U6-7
+TOP 7 79.82538518 65.17500046 180 N 91 150 U6-8
+TOP 8 74.1746167 65.17500046 180 N 23 1 U6-9
+TOP 9 74.1746167 64.52500176 180 N 95 0 U6-10
+TOP 10 74.1746167 63.87500052 180 N 111 0 U6-11
+TOP 11 74.1746167 63.22500182 180 N 22 1 U6-12
+TOP 12 74.1746167 62.57500058 180 N 94 0 U6-13
+TOP 13 74.1746167 61.92500188 180 N 110 0 U6-14
+TOP 14 74.1746167 61.27500064 180 N 119 1 U6-15
+TOP 15 74.1746167 60.62500194 180 N 118 43 U6-16
+#
+# CMP 67
+CMP 15 77.00000094 69.9999997 270 N U5 LM324DT ;0=1,1=0.0000
+PRP Automotive 'No'
+PRP Bandwidth '1.3MHz'
+PRP Category 'IC'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.st.com/content/ccc/resource/technical/document/datasheet/bd/fc/46/43/26/8f/40/7f/CD00001046.pdf/files/CD00001046.pdf/jcr:content/translations/en.CD00001046.pdf'
+PRP Device_Class_L1 'Integrated Circuits (ICs)'
+PRP Device_Class_L2 'Linear ICs'
+PRP Device_Class_L3 'Amplifiers - Op Amps'
+PRP Digikey_Description 'IC OPAMP GP 4 CIRCUIT 14SO'
+PRP Footprint_Url 'https://www.st.com/content/ccc/resource/technical/document/datasheet/group3/10/8a/e6/12/f8/e8/49/ce/DM00366438/files/DM00366438.pdf/jcr:content/translations/en.DM00366438.pdf'
+PRP Gain_Bandwidth '1.3MHz'
+PRP Height '1.75mm'
+PRP Input_Bias_Current '0.02uA'
+PRP Input_Offset_Voltage '2mV'
+PRP LCSC# 'C71035'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'STMicroelectronics'
+PRP Manufacturer_Part_Number 'LM324DT'
+PRP Max_Dual_Supply_Voltage '15V'
+PRP Max_Junction_Temp '+150°C'
+PRP Max_Supply_Voltage '30V'
+PRP Min_Dual_Supply_Voltage '1.5V'
+PRP Min_Supply_Voltage '3V'
+PRP Mouser_Description 'LM324 Series 32 V 1.3 MHz Low Power Quad Operational Amplifier - SOIC-14'
+PRP Nominal_Supply_Current '0.7-1.5mA'
+PRP Number_Of_Channels '4'
+PRP Octopart 'https://octopart.com/lm324dt-stmicroelectronics-39579146'
+PRP Output_Current_Per_Channel '20-50mA'
+PRP Package 'SO-14'
+PRP RoHS 'TRUE'
+PRP Standoff_Height '0.1mm'
+PRP Temperature '0°C to +70°C'
+PRP Temperature_Range_High '+70°C'
+PRP Temperature_Range_Low '0°C'
+PRP Voltage_Gain '100dB'
+TOP 0 73.19000094 67.63393382 270 N 97 1 U5-1
+TOP 1 74.46000094 67.63393382 270 N 104 3 U5-2
+TOP 2 75.73000094 67.63393382 270 N 113 2 U5-3
+TOP 3 77.00000094 67.63393382 270 N 118 46 U5-4
+TOP 4 78.27000094 67.63393382 270 N 112 2 U5-5
+TOP 5 79.54000094 67.63393382 270 N 104 4 U5-6
+TOP 6 80.81000094 67.63393382 270 N 96 1 U5-7
+TOP 7 80.81000094 72.36606558 270 N 95 1 U5-8
+TOP 8 79.54000094 72.36606558 270 N 104 5 U5-9
+TOP 9 78.27000094 72.36606558 270 N 111 2 U5-10
+TOP 10 77.00000094 72.36606558 270 N 91 170 U5-11
+TOP 11 75.73000094 72.36606558 270 N 110 2 U5-12
+TOP 12 74.46000094 72.36606558 270 N 104 6 U5-13
+TOP 13 73.19000094 72.36606558 270 N 94 1 U5-14
+#
+# CMP 68
+CMP 15 49.99999906 69.9999997 270 N U4 LM324DT ;0=1,1=0.0000
+PRP Automotive 'No'
+PRP Bandwidth '1.3MHz'
+PRP Category 'IC'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.st.com/content/ccc/resource/technical/document/datasheet/bd/fc/46/43/26/8f/40/7f/CD00001046.pdf/files/CD00001046.pdf/jcr:content/translations/en.CD00001046.pdf'
+PRP Device_Class_L1 'Integrated Circuits (ICs)'
+PRP Device_Class_L2 'Linear ICs'
+PRP Device_Class_L3 'Amplifiers - Op Amps'
+PRP Digikey_Description 'IC OPAMP GP 4 CIRCUIT 14SO'
+PRP Footprint_Url 'https://www.st.com/content/ccc/resource/technical/document/datasheet/group3/10/8a/e6/12/f8/e8/49/ce/DM00366438/files/DM00366438.pdf/jcr:content/translations/en.DM00366438.pdf'
+PRP Gain_Bandwidth '1.3MHz'
+PRP Height '1.75mm'
+PRP Input_Bias_Current '0.02uA'
+PRP Input_Offset_Voltage '2mV'
+PRP LCSC# 'C71035'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'STMicroelectronics'
+PRP Manufacturer_Part_Number 'LM324DT'
+PRP Max_Dual_Supply_Voltage '15V'
+PRP Max_Junction_Temp '+150°C'
+PRP Max_Supply_Voltage '30V'
+PRP Min_Dual_Supply_Voltage '1.5V'
+PRP Min_Supply_Voltage '3V'
+PRP Mouser_Description 'LM324 Series 32 V 1.3 MHz Low Power Quad Operational Amplifier - SOIC-14'
+PRP Nominal_Supply_Current '0.7-1.5mA'
+PRP Number_Of_Channels '4'
+PRP Octopart 'https://octopart.com/lm324dt-stmicroelectronics-39579146'
+PRP Output_Current_Per_Channel '20-50mA'
+PRP Package 'SO-14'
+PRP RoHS 'TRUE'
+PRP Standoff_Height '0.1mm'
+PRP Temperature '0°C to +70°C'
+PRP Temperature_Range_High '+70°C'
+PRP Temperature_Range_Low '0°C'
+PRP Voltage_Gain '100dB'
+TOP 0 46.18999906 67.63393382 270 N 101 1 U4-1
+TOP 1 47.45999906 67.63393382 270 N 105 6 U4-2
+TOP 2 48.72999906 67.63393382 270 N 117 2 U4-3
+TOP 3 49.99999906 67.63393382 270 N 118 47 U4-4
+TOP 4 51.26999906 67.63393382 270 N 116 2 U4-5
+TOP 5 52.53999906 67.63393382 270 N 105 5 U4-6
+TOP 6 53.80999906 67.63393382 270 N 100 1 U4-7
+TOP 7 53.80999906 72.36606558 270 N 99 1 U4-8
+TOP 8 52.53999906 72.36606558 270 N 105 4 U4-9
+TOP 9 51.26999906 72.36606558 270 N 115 2 U4-10
+TOP 10 49.99999906 72.36606558 270 N 91 171 U4-11
+TOP 11 48.72999906 72.36606558 270 N 114 2 U4-12
+TOP 12 47.45999906 72.36606558 270 N 105 3 U4-13
+TOP 13 46.18999906 72.36606558 270 N 98 1 U4-14
+#
+# CMP 69
+CMP 30 49.99999906 62.9000012 180 N U3 TMUX1574PWR ;0=1,1=0.0000
+PRP -3db_Bandwidth '2GHz'
+PRP Case/Package 'TSSOP'
+PRP LCSC# 'C2673443'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Number_of_Circuits '4'
+PRP On-State_Resistance '4.5R'
+PRP Packaging 'Cut Tape'
+PRP RoHS_Compliant 'Yes'
+TOP 0 52.8253833 60.62500194 180 N 30 2 U3-1
+TOP 1 52.8253833 61.27500064 180 N 117 0 U3-2
+TOP 2 52.8253833 61.92500188 180 N 101 0 U3-3
+TOP 3 52.8253833 62.57500058 180 N 29 1 U3-4
+TOP 4 52.8253833 63.22500182 180 N 116 0 U3-5
+TOP 5 52.8253833 63.87500052 180 N 100 0 U3-6
+TOP 6 52.8253833 64.52500176 180 N 28 1 U3-7
+TOP 7 52.8253833 65.17500046 180 N 91 151 U3-8
+TOP 8 47.17461482 65.17500046 180 N 27 1 U3-9
+TOP 9 47.17461482 64.52500176 180 N 99 0 U3-10
+TOP 10 47.17461482 63.87500052 180 N 115 0 U3-11
+TOP 11 47.17461482 63.22500182 180 N 26 1 U3-12
+TOP 12 47.17461482 62.57500058 180 N 98 0 U3-13
+TOP 13 47.17461482 61.92500188 180 N 114 0 U3-14
+TOP 14 47.17461482 61.27500064 180 N 119 2 U3-15
+TOP 15 47.17461482 60.62500194 180 N 118 44 U3-16
+#
+# CMP 70
+CMP 25 84.70000078 34.29999998 270 N U2 FP6293XR-G1 ;0=1,1=1.7500
+PRP LCSC# 'C83576'
+PRP Manufacturer 'Advanced Analog Technology'
+PRP Manufacturer_Part_Number 'FP6293XR-G1'
+TOP 0 82.79500078 31.57499908 180 N 91 149 U2-1
+TOP 1 84.06500078 31.57499908 180 N 38 2 U2-2
+TOP 2 85.33500078 31.57499908 180 N 109 17 U2-3
+TOP 3 86.60500078 31.57499908 180 N 109 16 U2-4
+TOP 4 86.60500078 37.02499834 180 N 91 148 U2-5
+TOP 5 85.33500078 37.02499834 180 N 71 3 U2-6
+TOP 6 84.06500078 37.02499834 180 N 0 22 U2-7
+TOP 7 82.79500078 37.02499834 180 N 52 3 U2-8
+TOP 8 84.70000078 34.29999998 270 N 91 147 U2-9
+#
+# CMP 71
+CMP 7 71.59999904 17.30000096 0 N U1 TPS63001DRCR ;0=1,1=1.0000
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TPS63001&fileType=pdf'
+PRP ComponentLink2Description 'Package Specification'
+PRP ComponentLink2URL 'http://www.ti.com/litv/pdf/mpds117k'
+PRP DatasheetVersion 'SLVS520B'
+PRP Dynamic_Voltage_Scaling 'TRUE'
+PRP Eco-Plan 'Green (RoHS & no Sb/Br)'
+PRP Iout(Max)(A) '1.2'
+PRP Iq(Typ)(mA) '0.03'
+PRP Manufacturer 'Texas Instruments'
+PRP Mounting_Technology 'Surface Mount'
+PRP PackageDescription '10-Pin Plastic Small Outline No-Lead, 3 x 3 x 1 mm Body, 0.5 mm Pitch, Exposed Pad'
+PRP PackageReference 'DRC0010J'
+PRP PackageVersion 'revL, Sep-2011'
+PRP PartNumber 'TPS63001DRCR'
+PRP Preset_Vout(V) '3.3'
+PRP Regulated_Outputs(#) '1'
+PRP SubFamily 'Buck-Boost Regulator'
+PRP Switching_Frequency(Max)(kHz) '1500'
+PRP Synchronous_Rectification 'TRUE'
+PRP Topology 'Buck-Boost'
+PRP Vin(Max)(V) '5.5'
+PRP Vin(Min)(V) '1.8'
+PRP Vout(Max)(V) '3.3'
+PRP Vout(Min)(V) '3.3'
+TOP 0 70.12500072 18.3000015 270 N 4 10 U1-1
+TOP 1 70.12500072 17.8000025 270 N 46 1 U1-2
+TOP 2 70.12500072 17.30000096 270 N 91 116 U1-3
+TOP 3 70.12500072 16.80000196 270 N 47 1 U1-4
+TOP 4 70.12500072 16.30000296 270 N 109 14 U1-5
+TOP 5 73.0749999 16.30000296 270 N 109 13 U1-6
+TOP 6 73.0749999 16.80000196 270 N 109 12 U1-7
+TOP 7 73.0749999 17.30000096 270 N 109 11 U1-8
+TOP 8 73.0749999 17.8000025 270 N 91 115 U1-9
+TOP 9 73.0749999 18.3000015 270 N 4 9 U1-10
+TOP 10 71.60000158 17.30000096 0 N 91 117 U1-11
+#
+# CMP 72
+CMP 20 80.90000076 3.60000042 0 N SW1 MSK12C02-HB ;0=1,1=0.0000
+PRP Actuator_Length '1.5mm'
+PRP Actuator_Material 'Nylon'
+PRP Actuator_Type 'Standard'
+PRP Contact_Current_Rating '300mA'
+PRP Contact_Material 'Copper Alloy'
+PRP Contact_Plating 'Silver'
+PRP Contact_Resistance '70mR'
+PRP Current_Rating '300mA'
+PRP Depth '5mm'
+PRP Insulation_Resistance '100mR'
+PRP LCSC# 'C431541'
+PRP Lead_Free 'Lead Free'
+PRP Length '7.7mm'
+PRP Max_Current_Rating '50mA'
+PRP Max_Operating_Temperature '85°C'
+PRP Max_Voltage_Rating_(DC) '12v'
+PRP Mechanical_Life '10000Cycles'
+PRP Min_Operating_Temperature '-20°C'
+PRP Mount 'Surface Mount'
+PRP Orientation 'Right Angle'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP REACH_SVHC 'No SVHC'
+PRP Switch_Function 'On-On'
+PRP Switch_Travel '1.5mm'
+PRP Termination 'Gull Wing'
+PRP Throw_Configuration 'SPDT'
+PRP Voltage_Rating_(DC) '12v'
+PRP Width '6.7mm'
+TOP 0 78.65000018 5.850001 0 N 6 1 SW1-1
+TOP 1 81.6500018 5.850001 0 N 91 127 SW1-2
+TOP 2 83.15000134 5.850001 0 N 0 10 SW1-3
+TOP 3 77.25000044 4.75000066 0 N 91 126 SW1-4
+TOP 4 84.55000108 4.75000066 0 N 91 125 SW1-5
+TOP 5 77.25000044 2.45000018 0 N 91 124 SW1-6
+TOP 6 84.55000108 2.45000018 0 N 91 123 SW1-7
+TOP 7 79.40000122 3.60000042 0 N 0 7 SW1-empty-1
+TOP 8 82.4000003 3.60000042 0 N 0 6 SW1-empty-2
+#
+# CMP 73
+CMP 23 69.9999997 33.29999944 90 N R34 1.8K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 69.9999997 34.04999794 90 N 91 54 R34-1
+TOP 1 69.9999997 32.5499984 90 N 80 0 R34-2
+#
+# CMP 74
+CMP 23 71.29999964 33.29999944 90 N R33 50K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 71.29999964 34.04999794 90 N 91 53 R33-1
+TOP 1 71.29999964 32.5499984 90 N 35 1 R33-2
+#
+# CMP 75
+CMP 23 67.39999982 33.29999944 90 N R32 * ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 67.39999982 34.04999794 90 N 91 56 R32-1
+TOP 1 67.39999982 32.5499984 90 N 34 0 R32-2
+#
+# CMP 76
+CMP 23 72.59999958 33.29999944 270 N R31 16K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 72.59999958 32.55000094 270 N 35 0 R31-1
+TOP 1 72.59999958 34.05000048 270 N 118 16 R31-2
+#
+# CMP 77
+CMP 23 73.89999952 33.29999944 270 N R30 10K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 73.89999952 32.55000094 270 N 72 0 R30-1
+TOP 1 73.89999952 34.05000048 270 N 118 15 R30-2
+#
+# CMP 78
+CMP 23 54.99999922 33.29999944 90 N R28 1.8K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 54.99999922 34.04999794 90 N 91 63 R28-1
+TOP 1 54.99999922 32.5499984 90 N 86 1 R28-2
+#
+# CMP 79
+CMP 23 56.29999916 33.29999944 90 N R27 50K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 56.29999916 34.04999794 90 N 91 60 R27-1
+TOP 1 56.29999916 32.5499984 90 N 37 0 R27-2
+#
+# CMP 80
+CMP 23 52.29999954 33.29999944 90 N R24 * ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 52.29999954 34.04999794 90 N 91 62 R24-1
+TOP 1 52.29999954 32.5499984 90 N 36 0 R24-2
+#
+# CMP 81
+CMP 23 57.5999991 33.29999944 270 N R23 16K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 57.5999991 32.55000094 270 N 37 1 R23-1
+TOP 1 57.5999991 34.05000048 270 N 118 19 R23-2
+#
+# CMP 82
+CMP 23 58.89999904 33.29999944 270 N R21 10K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 58.89999904 32.55000094 270 N 72 1 R21-1
+TOP 1 58.89999904 34.05000048 270 N 118 18 R21-2
+#
+# CMP 83
+CMP 23 80.09999982 55.89999996 180 N R14 10K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 80.84999832 55.89999996 180 N 119 0 R14-1
+TOP 1 79.34999878 55.89999996 180 N 118 27 R14-2
+#
+# CMP 84
+CMP 23 80.09999982 54.60000002 0 N R13 10K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 79.35000132 54.60000002 0 N 88 0 R13-1
+TOP 1 80.85000086 54.60000002 0 N 118 26 R13-2
+#
+# CMP 85
+CMP 23 61.39999912 22.09999898 90 N R12 100R ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 61.39999912 22.84999748 90 N 91 97 R12-1
+TOP 1 61.39999912 21.34999794 90 N 39 1 R12-2
+#
+# CMP 86
+CMP 23 64.0999988 17.09999882 90 N R11 13.3K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 64.0999988 17.84999732 90 N 91 106 R11-1
+TOP 1 64.0999988 16.34999778 90 N 40 1 R11-2
+#
+# CMP 87
+CMP 23 64.40000074 20.69999924 180 N R10 21K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 65.14999924 20.69999924 180 N 91 107 R10-1
+TOP 1 63.6499997 20.69999924 180 N 42 3 R10-2
+#
+# CMP 88
+CMP 23 54.99999922 9.90000052 270 N R9 1K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 54.99999922 9.15000202 270 N 41 0 R9-1
+TOP 1 54.99999922 10.65000156 270 N 50 0 R9-2
+#
+# CMP 89
+CMP 23 64.40000074 19.3999993 0 N R8 4.32K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 63.65000224 19.3999993 0 N 42 2 R8-1
+TOP 1 65.15000178 19.3999993 0 N 21 3 R8-2
+#
+# CMP 90
+CMP 23 83.99999964 29.00000042 270 N R5 27K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 83.99999964 28.25000192 270 N 91 49 R5-1
+TOP 1 83.99999964 29.75000146 270 N 38 1 R5-2
+#
+# CMP 91
+CMP 23 89.0999996 33.09999984 180 N R4 10K_1% ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 89.8499981 33.09999984 180 N 91 46 R4-1
+TOP 1 88.34999856 33.09999984 180 N 71 0 R4-2
+#
+# CMP 92
+CMP 23 81.00000056 16.30000042 270 N R3 1K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 81.00000056 15.55000192 270 N 91 45 R3-1
+TOP 1 81.00000056 17.05000146 270 N 51 0 R3-2
+#
+# CMP 93
+CMP 23 89.0999996 34.39999978 0 N R2 190K_1% ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 88.3500011 34.39999978 0 N 71 1 R2-1
+TOP 1 89.85000064 34.39999978 0 N 3 5 R2-2
+#
+# CMP 94
+CMP 23 74.60000066 17.99999956 270 N R1 1K ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+TOP 0 74.60000066 17.25000106 270 N 91 71 R1-1
+TOP 1 74.60000066 18.7500006 270 N 53 0 R1-2
+#
+# CMP 95
+CMP 26 80.09999982 58.20000044 270 N Q2 2N7002LT1G ;0=1,1=1.1100
+PRP Channel_Polarity 'N Channel'
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.onsemi.com/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.onsemi.com/pub_link/Collateral/2N7002L-D.PDF'
+PRP ComponentLink3Description 'Package Specification'
+PRP ComponentLink3URL 'http://www.onsemi.cn/pub_link/Collateral/318-08.PDF'
+PRP Configuration 'Single'
+PRP DatasheetVersion 'Rev. 7'
+PRP ID_Max_(A) '0.115'
+PRP LCSC# 'C16338'
+PRP Manufacturer 'On Semiconductor'
+PRP Mounting_Technology 'Surface Mount'
+PRP Package_Type 'SOT-23-3'
+PRP PackageDescription '3-Pin Small Outline Transistor, Body 2.92 x 1.3 mm, Pitch 0.95 mm'
+PRP PackageReference 'SOT-23-3-318-08'
+PRP PackageVersion 'Rev. AP, 11/2009'
+PRP Packing 'Tape and Reel'
+PRP PartNumber '2N7002LT1G'
+PRP RoHS 'Pb-Free'
+PRP V(BR)DSS_Min_(V) '60'
+PRP VGS_Max_(V) '20'
+PRP VGS(th)_Max_(V) '2.5'
+TOP 0 79.14999918 57.1999999 180 N 88 3 Q2-1
+TOP 1 81.04999792 57.1999999 180 N 91 169 Q2-2
+TOP 2 80.09999982 59.20000098 180 N 119 3 Q2-3
+#
+# CMP 96
+CMP 32 60.65000062 18.4000013 270 N Q1 BQ25303JRTER ;0=1,1=0.8000
+PRP Category 'Integrated Circuits (ICs)'
+PRP LCSC# 'C2842775'
+PRP Manufacturer 'Texas Instruments'
+PRP Manufacturer_Part_Number 'BQ25303JRTER'
+PRP Pricing_1 '1=2.18000, 10=1.97000, 50=1.85000, 100=1.58000, 1000=1.08000, 10000=0.97900 (USD)'
+PRP RoHS 'No'
+PRP Stock_1 '8047'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 'BQ25303JRTER'
+TOP 0 59.90000212 16.95000166 180 N 121 6 Q1-1
+TOP 1 60.40000112 16.95000166 180 N 21 4 Q1-2
+TOP 2 60.90000012 16.95000166 180 N 41 1 Q1-3
+TOP 3 61.40000166 16.95000166 180 N 40 2 Q1-4
+TOP 4 62.10000026 17.6500028 270 N 0 24 Q1-5
+TOP 5 62.10000026 18.1500018 270 N 91 155 Q1-6
+TOP 6 62.10000026 18.6500008 270 N 42 4 Q1-7
+TOP 7 62.10000026 19.15000234 270 N 0 23 Q1-8
+TOP 8 61.40000166 19.85000094 180 N 39 2 Q1-9
+TOP 9 60.90000012 19.85000094 180 N 122 8 Q1-10
+TOP 10 60.40000112 19.85000094 180 N 91 154 Q1-11
+TOP 11 59.90000212 19.85000094 180 N 91 153 Q1-12
+TOP 12 59.20000098 19.15000234 270 N 70 5 Q1-13
+TOP 13 59.20000098 18.6500008 270 N 70 4 Q1-14
+TOP 14 59.20000098 18.1500018 270 N 69 2 Q1-15
+TOP 15 59.20000098 17.6500028 270 N 68 2 Q1-16
+TOP 16 60.65000062 18.4000013 270 N 91 152 Q1-17
+#
+# CMP 97
+CMP 21 52.90000088 17.60000036 90 N L3 MWSA0402S ;0=1,1=2.0000
+PRP Manufacturer 'Sunlord'
+PRP Manufacturer_Part_Number 'MWSA0402S-'
+PRP Value '1uH'
+TOP 0 52.90000088 19.42500052 0 N 70 3 L3-1
+TOP 1 52.90000088 15.7750002 0 N 122 7 L3-2
+#
+# CMP 98
+CMP 22 86.30000012 41.90000002 180 N L2 4.7uH ;0=1,1=3.5000
+PRP LCSC# 'C408447'
+PRP Manufacturer 'Sunlord'
+PRP Manufacturer_Part_Number 'MWSA0603S-4R7MT'
+PRP Pricing_1 '1=1.24, 10=1.149, 25=1.0604, 50=0.8838, 100=0.8307, 250=0.74236, 500=0.6363 (USD)'
+PRP RoHS 'No'
+PRP Stock_1 '1109'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '3442-MWSA0603S-4R7MTCT-ND'
+TOP 0 89.17500072 41.90000002 90 N 109 10 L2-1
+TOP 1 83.42499952 41.90000002 90 N 52 2 L2-2
+#
+# CMP 99
+CMP 16 66.80000102 16.59999982 270 N L1 VLS3012ET-2R2M ;0=1,1=1.2000
+PRP Case_Code_(Metric) '3012'
+PRP Case/Package 'Nonstandard'
+PRP Category 'Fixed Inductors'
+PRP ComponentLink1Description 'https://media.digikey.com/pdf/Data%20Sheets/TDK%20PDFs/VLS3012E_Series.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://media.digikey.com/pdf/Data%20Sheets/TDK%20PDFs/VLS3012E_Series.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'http://www.mouser.com/ds/2/400/nductor_commercial_power_vls3012e_en-776349.pdf?src-supplier=Mouser'
+PRP ComponentLink2URL 'http://www.mouser.com/ds/2/400/nductor_commercial_power_vls3012e_en-776349.pdf?src-supplier=Mouser'
+PRP ComponentLink3Description 'http://www.tdk.co.jp/tefe02/e531_vls.pdf?src-supplier=Avnet'
+PRP ComponentLink3URL 'http://www.tdk.co.jp/tefe02/e531_vls.pdf?src-supplier=Avnet'
+PRP Core_Material 'Ferrite'
+PRP DC_Resistance_(DCR) '96mR'
+PRP Height '1.2mm'
+PRP Inductance '2.2uH'
+PRP LCSC# 'C136233'
+PRP Lead_Free 'Lead Free'
+PRP Length '3mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'VLS3012ET-2R2M'
+PRP Max_DC_Current '1.5A'
+PRP Max_Operating_Temperature '105°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '2000'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.38, 10=0.339, 25=0.2968, 50=0.2546, 100=0.2333, 250=0.21208, 500=0.19938, 1000=0.15271 (USD)'
+PRP Resistance '0.096R'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP Saturation_Current '1.35A'
+PRP Series 'VLS'
+PRP Shielding 'Shielded'
+PRP Stock_1 '35209'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-6664-1-ND'
+PRP Termination 'SMD/SMT'
+PRP Test_Frequency '1MHz'
+PRP Tolerance '20%'
+PRP Width '3mm'
+TOP 0 66.80000102 15.375001 180 N 47 2 L1-1
+TOP 1 66.80000102 17.82500118 180 N 46 2 L1-2
+#
+# CMP 100
+CMP 5 81.00000056 27.50000088 180 N J3 3X2_BergStrip ;0=2,1=10.0000
+PRP Alternate_Part_Number-1 'NA'
+PRP Case/Package 'TH'
+PRP Manufacturer 'NA'
+PRP Manufacturer_Part_Number 'NA'
+PRP Supplier_Part_Number-1 'NA'
+PRP Supplier-1 'SP ROAD'
+TOP 0 81.00000056 27.50000088 180 N 118 9 J3-1
+TOP 1 81.00000056 24.96000088 180 N 91 34 J3-2
+TOP 2 78.46000056 27.50000088 180 N 79 0 J3-3
+TOP 3 78.46000056 24.96000088 180 N 78 0 J3-4
+TOP 4 75.92000056 27.50000088 180 N 76 1 J3-5
+TOP 5 75.92000056 24.96000088 180 N 75 1 J3-6
+#
+# CMP 101
+CMP 9 57.82499992 63.5999998 0 N FB2 FB0805 ;0=1,1=0.0000
+PRP Distributor_Link ''
+PRP LCSC 'C370580'
+PRP Manufacturer 'Sunlord'
+PRP Manufacturer_Part_Number 'UPZ2012E101-4R0TF'
+TOP 0 56.87499928 63.5999998 0 N 118 12 FB2-1
+TOP 1 58.77500056 63.5999998 0 N 65 5 FB2-2
+#
+# CMP 102
+CMP 19 56.7000009 9.90000052 270 N D5 RED ;0=1,1=0.0000
+TOP 0 56.7000009 10.65000156 270 N 21 1 D5-A
+TOP 1 56.7000009 9.15000202 270 N 50 1 D5-K
+#
+# CMP 103
+CMP 18 79.40000122 16.30000042 270 N D3 GREEN ;0=1,1=0.0000
+TOP 0 79.40000122 17.05000146 270 N 123 9 D3-A
+TOP 1 79.40000122 15.55000192 270 N 51 1 D3-K
+#
+# CMP 104
+CMP 10 78.50000048 38.6999988 270 N D2 SSC54-E3/57T ;0=1,1=0.0000
+PRP Automotive 'No'
+PRP Category 'Diode'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.vishay.com/docs/88885/ssc53l.pdf'
+PRP Device_Class_L1 'Discrete Semiconductors'
+PRP Device_Class_L2 'Diodes'
+PRP Device_Class_L3 'Schottky Diodes'
+PRP Digikey_Description 'DIODE SCHOTTKY 40V 5A DO214AB'
+PRP Footprint_Url 'https://www.vishay.com/docs/95402/smc.pdf'
+PRP Forward_Current '5A'
+PRP Height '2.62mm'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Vishay'
+PRP Manufacturer_Part_Number 'SSC54-E3/57T'
+PRP Max_Junction_Temp '+150°C'
+PRP Max_Repetitive_Reverse_Voltage '40V'
+PRP Max_Surge_Forward_Current '175A'
+PRP Mouser_Description 'SSC54 Series 40 V 5 A Surface Mount Schottky Rectifier - DO-214AB'
+PRP Octopart 'https://octopart.com/ssc54-e3%2F57t-vishay-39552944'
+PRP Package '95402'
+PRP Peak_Reverse_Current '0.5mA'
+PRP Reverse_Voltage '40V'
+PRP RoHS 'TRUE'
+PRP Standoff_Height '0mm'
+PRP Temperature '-65°C to +150°C'
+PRP Temperature_Range_High '+150°C'
+PRP Temperature_Range_Low '-65°C'
+TOP 0 78.50000048 35.49499886 270 N 3 4 D2-1
+TOP 1 78.50000048 41.90499874 270 N 52 1 D2-2
+#
+# CMP 105
+CMP 18 74.60000066 21.00000118 270 N D1 GREEN ;0=1,1=0.0000
+TOP 0 74.60000066 21.75000222 270 N 118 22 D1-A
+TOP 1 74.60000066 20.25000268 270 N 53 1 D1-K
+#
+# CMP 106
+CMP 1 70.50000124 22.09999898 90 N C46 100n ;0=1,1=0.0000
+TOP 0 70.50000124 22.84999748 90 N 59 1 C46-1
+TOP 1 70.50000124 21.34999794 90 N 123 13 C46-2
+#
+# CMP 107
+CMP 1 76.42500082 31.09999876 90 N C44 100n ;0=1,1=0.0000
+TOP 0 76.42500082 31.84999726 90 N 91 52 C44-1
+TOP 1 76.42500082 30.34999772 90 N 118 14 C44-2
+#
+# CMP 108
+CMP 1 69.19999876 22.09999898 270 N C43 100n ;0=1,1=0.0000
+TOP 0 69.19999876 21.35000048 270 N 91 110 C43-1
+TOP 1 69.19999876 22.85000002 270 N 123 12 C43-2
+#
+# CMP 109
+CMP 1 72.30000018 22.09999898 90 N C41 22n ;0=1,1=0.0000
+TOP 0 72.30000018 22.84999748 90 N 61 1 C41-1
+TOP 1 72.30000018 21.34999794 90 N 60 1 C41-2
+#
+# CMP 110
+CMP 1 63.8999992 27.80000028 90 N C40 100n ;0=1,1=0.0000
+TOP 0 63.8999992 28.54999878 90 N 91 64 C40-1
+TOP 1 63.8999992 27.04999924 90 N 118 20 C40-2
+#
+# CMP 111
+CMP 1 55.50000076 22.09999898 90 N C39 100n ;0=1,1=0.0000
+TOP 0 55.50000076 22.84999748 90 N 62 1 C39-1
+TOP 1 55.50000076 21.34999794 90 N 123 11 C39-2
+#
+# CMP 112
+CMP 1 43.69999896 26.30000074 270 N C37 100n ;0=1,1=0.0000
+TOP 0 43.69999896 25.55000224 270 N 91 68 C37-1
+TOP 1 43.69999896 27.05000178 270 N 118 21 C37-2
+#
+# CMP 113
+CMP 1 54.20000082 22.09999898 270 N C36 100n ;0=1,1=0.0000
+TOP 0 54.20000082 21.35000048 270 N 91 105 C36-1
+TOP 1 54.20000082 22.85000002 270 N 123 10 C36-2
+#
+# CMP 114
+CMP 1 57.2999997 22.09999898 90 N C34 22n ;0=1,1=0.0000
+TOP 0 57.2999997 22.84999748 90 N 64 1 C34-1
+TOP 1 57.2999997 21.34999794 90 N 63 1 C34-2
+#
+# CMP 115
+CMP 1 59.60000018 59.30000078 0 N C33 100n ;0=1,1=0.0000
+TOP 0 58.85000168 59.30000078 0 N 91 79 C33-1
+TOP 1 60.35000122 59.30000078 0 N 65 6 C33-2
+#
+# CMP 116
+CMP 1 59.60000018 60.60000072 0 N C32 1u ;0=1,1=0.0000
+TOP 0 58.85000168 60.60000072 0 N 91 80 C32-1
+TOP 1 60.35000122 60.60000072 0 N 65 7 C32-2
+#
+# CMP 117
+CMP 1 59.60000018 61.90000066 0 N C31 10u ;0=1,1=0.0000
+TOP 0 58.85000168 61.90000066 0 N 91 81 C31-1
+TOP 1 60.35000122 61.90000066 0 N 65 8 C31-2
+#
+# CMP 118
+CMP 1 60.60000072 64.00000154 90 N C30 10u ;0=1,1=0.0000
+TOP 0 60.60000072 64.75000004 90 N 91 82 C30-1
+TOP 1 60.60000072 63.2500005 90 N 65 9 C30-2
+#
+# CMP 119
+CMP 1 63.2000006 64.00000154 90 N C29 100n ;0=1,1=0.0000
+TOP 0 63.2000006 64.75000004 90 N 91 84 C29-1
+TOP 1 63.2000006 63.2500005 90 N 65 10 C29-2
+#
+# CMP 120
+CMP 1 64.50000054 64.00000154 90 N C28 10n ;0=1,1=0.0000
+TOP 0 64.50000054 64.75000004 90 N 91 85 C28-1
+TOP 1 64.50000054 63.2500005 90 N 66 0 C28-2
+#
+# CMP 121
+CMP 1 61.90000066 64.00000154 90 N C27 100n ;0=1,1=0.0000
+TOP 0 61.90000066 64.75000004 90 N 91 83 C27-1
+TOP 1 61.90000066 63.2500005 90 N 67 0 C27-2
+#
+# CMP 122
+CMP 1 85.09999998 72.59999958 90 N C26 100n ;0=1,1=0.0000
+TOP 0 85.09999998 73.34999808 90 N 91 86 C26-1
+TOP 1 85.09999998 71.84999854 90 N 104 1 C26-2
+#
+# CMP 123
+CMP 1 56.8000007 72.59999958 90 N C25 100n ;0=1,1=0.0000
+TOP 0 56.8000007 73.34999808 90 N 91 89 C25-1
+TOP 1 56.8000007 71.84999854 90 N 105 2 C25-2
+#
+# CMP 124
+CMP 1 73.40000052 59.40000058 0 N C24 100n ;0=1,1=0.0000
+TOP 0 72.65000202 59.40000058 0 N 91 73 C24-1
+TOP 1 74.15000156 59.40000058 0 N 118 28 C24-2
+#
+# CMP 125
+CMP 1 47.59999878 59.40000058 180 N C23 100n ;0=1,1=0.0000
+TOP 0 48.34999728 59.40000058 180 N 91 91 C23-1
+TOP 1 46.84999774 59.40000058 180 N 118 30 C23-2
+#
+# CMP 126
+CMP 1 83.99999964 67.10000042 270 N C22 100n ;0=1,1=0.0000
+TOP 0 83.99999964 66.35000192 270 N 91 42 C22-1
+TOP 1 83.99999964 67.85000146 270 N 118 11 C22-2
+#
+# CMP 127
+CMP 1 44.9999989 67.79999902 90 N C21 100n ;0=1,1=0.0000
+TOP 0 44.9999989 68.54999752 90 N 91 90 C21-1
+TOP 1 44.9999989 67.04999798 90 N 118 29 C21-2
+#
+# CMP 128
+CMP 1 56.9000005 17.6500028 0 N C20 10u ;0=1,1=0.0000
+TOP 0 56.150002 17.6500028 0 N 91 112 C20-1
+TOP 1 57.65000154 17.6500028 0 N 68 1 C20-2
+#
+# CMP 129
+CMP 1 61.15000216 14.15000218 270 N C19 2.2u ;0=1,1=0.0000
+TOP 0 61.15000216 13.40000368 270 N 91 98 C19-1
+TOP 1 61.15000216 14.90000322 270 N 21 2 C19-2
+#
+# CMP 130
+CMP 1 56.9000005 16.15000326 0 N C18 2.2u ;0=1,1=0.0000
+TOP 0 56.150002 16.15000326 0 N 91 111 C18-1
+TOP 1 57.65000154 16.15000326 0 N 121 5 C18-2
+#
+# CMP 131
+CMP 1 56.14999946 14.15000218 270 N C17 10u ;0=1,1=0.0000
+TOP 0 56.14999946 13.40000368 270 N 91 101 C17-1
+TOP 1 56.14999946 14.90000322 270 N 121 3 C17-2
+#
+# CMP 132
+CMP 1 51.50000114 12.6000002 180 N C16 10u ;0=1,1=0.0000
+TOP 0 52.24999964 12.6000002 180 N 91 103 C16-1
+TOP 1 50.7500001 12.6000002 180 N 122 5 C16-2
+#
+# CMP 133
+CMP 1 51.50000114 13.80000034 180 N C15 10u ;0=1,1=0.0000
+TOP 0 52.24999964 13.80000034 180 N 91 104 C15-1
+TOP 1 50.7500001 13.80000034 180 N 122 4 C15-2
+#
+# CMP 134
+CMP 1 56.9000005 19.15000234 0 N C14 47u ;0=1,1=0.0000
+TOP 0 56.150002 19.15000234 0 N 70 2 C14-1
+TOP 1 57.65000154 19.15000234 0 N 69 1 C14-2
+#
+# CMP 135
+CMP 1 89.0999996 35.69999972 0 N C11 22p ;0=1,1=0.0000
+TOP 0 88.3500011 35.69999972 0 N 71 2 C11-1
+TOP 1 89.85000064 35.69999972 0 N 3 6 C11-2
+#
+# CMP 136
+CMP 1 80.39999922 33.39999924 180 N C10 22u ;0=1,1=0.0000
+TOP 0 81.14999772 33.39999924 180 N 91 51 C10-1
+TOP 1 79.64999818 33.39999924 180 N 3 8 C10-2
+#
+# CMP 137
+CMP 1 80.39999922 32.0999993 180 N C9 22u ;0=1,1=0.0000
+TOP 0 81.14999772 32.0999993 180 N 91 50 C9-1
+TOP 1 79.64999818 32.0999993 180 N 3 7 C9-2
+#
+# CMP 138
+CMP 1 86.69999932 29.00000042 270 N C8 22u ;0=1,1=0.0000
+TOP 0 86.69999932 28.25000192 270 N 91 47 C8-1
+TOP 1 86.69999932 29.75000146 270 N 109 5 C8-2
+#
+# CMP 139
+CMP 1 85.29999958 29.00000042 270 N C7 22u ;0=1,1=0.0000
+TOP 0 85.29999958 28.25000192 270 N 91 48 C7-1
+TOP 1 85.29999958 29.75000146 270 N 109 6 C7-2
+#
+# CMP 140
+CMP 1 66.49999908 20.59999944 90 N C5 10u ;0=1,1=0.0000
+TOP 0 66.49999908 21.34999794 90 N 91 108 C5-1
+TOP 1 66.49999908 19.8499984 90 N 4 6 C5-2
+#
+# CMP 141
+CMP 1 67.89999882 20.59999944 90 N C4 100n ;0=1,1=0.0000
+TOP 0 67.89999882 21.34999794 90 N 91 109 C4-1
+TOP 1 67.89999882 19.8499984 90 N 4 7 C4-2
+#
+# CMP 142
+CMP 1 75.9000006 15.44999958 270 N C3 100n ;0=1,1=0.0000
+TOP 0 75.9000006 14.70000108 270 N 91 69 C3-1
+TOP 1 75.9000006 16.20000062 270 N 109 8 C3-2
+#
+# CMP 143
+CMP 1 74.60000066 15.44999958 270 N C2 10u ;0=1,1=0.0000
+TOP 0 74.60000066 14.70000108 270 N 91 70 C2-1
+TOP 1 74.60000066 16.20000062 270 N 109 9 C2-2
+#

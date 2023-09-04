@@ -1,0 +1,186 @@
+Removed Pin From Net: NetName=AOUT1 Pin=U?-1
+Removed Pin From Net: NetName=AOUT5 Pin=U?-1
+Removed Pin From Net: NetName=3V3 Pin=U?-2
+Removed Pin From Net: NetName=3V3 Pin=U?-2
+Removed Pin From Net: NetName=3V3 Pin=U?-2
+Removed Pin From Net: NetName=3V3 Pin=U?-2
+Removed Pin From Net: NetName=AOUT1 Pin=U?-2
+Removed Pin From Net: NetName=AOUT5 Pin=U?-2
+Removed Pin From Net: NetName=3V3 Pin=U?-4
+Removed Pin From Net: NetName=3V3 Pin=U?-4
+Removed Pin From Net: NetName=AOUT2 Pin=U?-6
+Removed Pin From Net: NetName=AOUT6 Pin=U?-6
+Removed Pin From Net: NetName=AOUT2 Pin=U?-7
+Removed Pin From Net: NetName=AOUT6 Pin=U?-7
+Removed Pin From Net: NetName=AOUT3 Pin=U?-8
+Removed Pin From Net: NetName=AOUT7 Pin=U?-8
+Removed Pin From Net: NetName=AOUT3 Pin=U?-9
+Removed Pin From Net: NetName=AOUT7 Pin=U?-9
+Removed Pin From Net: NetName=GND Pin=U?-11
+Removed Pin From Net: NetName=GND Pin=U?-11
+Removed Member From Class: ClassName=Position Sensor Array Member=U?
+Change Component Footprint: Designator=U? Old Footprint=FP-SO-14-IPC_B New Footprint=FP-SO-14-IPC_B
+Change Component Footprint: Designator=U? Old Footprint=FP-SO-14-IPC_B New Footprint=FP-SO-14-IPC_B
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Change Component Designator: OldDesignator=U? NewDesignator=U9
+Change Component Designator: OldDesignator=U? NewDesignator=U10
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Added Pin To Net: NetName=3V3 Pin=U1-2
+Added Pin To Net: NetName=3V3 Pin=U3-2
+Added Pin To Net: NetName=3V3 Pin=U5-2
+Added Pin To Net: NetName=3V3 Pin=U7-2
+Added Pin To Net: NetName=AOUT1 Pin=U9-1
+Added Pin To Net: NetName=AOUT1 Pin=U9-2
+Added Pin To Net: NetName=3V3 Pin=U9-4
+Added Pin To Net: NetName=AOUT2 Pin=U9-6
+Added Pin To Net: NetName=AOUT2 Pin=U9-7
+Added Pin To Net: NetName=AOUT3 Pin=U9-8
+Added Pin To Net: NetName=AOUT3 Pin=U9-9
+Added Pin To Net: NetName=GND Pin=U9-11
+Added Pin To Net: NetName=AOUT5 Pin=U10-1
+Added Pin To Net: NetName=AOUT5 Pin=U10-2
+Added Pin To Net: NetName=3V3 Pin=U10-4
+Added Pin To Net: NetName=AOUT6 Pin=U10-6
+Added Pin To Net: NetName=AOUT6 Pin=U10-7
+Added Pin To Net: NetName=AOUT7 Pin=U10-8
+Added Pin To Net: NetName=AOUT7 Pin=U10-9
+Added Pin To Net: NetName=GND Pin=U10-11
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R1-2
+Added Pin To Net: NetName=NetC3_2 Pin=U9-3
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R2-2
+Added Pin To Net: NetName=NetC4_2 Pin=U10-3
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R7-2
+Added Pin To Net: NetName=NetC5_2 Pin=U9-5
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R8-2
+Added Pin To Net: NetName=NetC6_2 Pin=U10-5
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R10-2
+Added Pin To Net: NetName=NetC7_2 Pin=U9-10
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R11-2
+Added Pin To Net: NetName=NetC8_2 Pin=U10-10
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=R12-2
+Added Pin To Net: NetName=NetC9_2 Pin=U9-12
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=R13-2
+Added Pin To Net: NetName=NetC10_2 Pin=U10-12
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U2-2
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U4-2
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U3-1
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U6-2
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U5-1
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U8-2
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U7-1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetU2_1 Pin=U2-1
+Added Pin To Net: NetName=NetU2_1 Pin=U4-1
+Added Pin To Net: NetName=NetU2_1 Pin=U6-1
+Added Pin To Net: NetName=NetU2_1 Pin=U8-1
+Added Net: Name=NetU2_1
+Added Member To Class: ClassName=Position Sensor Array Member=Component C1 100n
+Added Member To Class: ClassName=Position Sensor Array Member=Component C2 100n
+Added Member To Class: ClassName=Position Sensor Array Member=Component C3 100n
+Added Member To Class: ClassName=Position Sensor Array Member=Component C5 100n
+Added Member To Class: ClassName=Position Sensor Array Member=Component C6 100n
+Added Member To Class: ClassName=Position Sensor Array Member=Component C7 100n
+Added Member To Class: ClassName=Position Sensor Array Member=Component C8 100n
+Added Member To Class: ClassName=Position Sensor Array Member=Component C9 100n
+Added Member To Class: ClassName=Position Sensor Array Member=Component C10 100n
+Added Member To Class: ClassName=Position Sensor Array Member=Component R1 10K
+Added Member To Class: ClassName=Position Sensor Array Member=Component R2 10K
+Added Member To Class: ClassName=Position Sensor Array Member=Component R3 47R
+Added Member To Class: ClassName=Position Sensor Array Member=Component R4 47R
+Added Member To Class: ClassName=Position Sensor Array Member=Component R5 47R
+Added Member To Class: ClassName=Position Sensor Array Member=Component R6 47R
+Added Member To Class: ClassName=Position Sensor Array Member=Component R7 10K
+Added Member To Class: ClassName=Position Sensor Array Member=Component R8 10K
+Added Member To Class: ClassName=Position Sensor Array Member=Component R9 10K
+Added Member To Class: ClassName=Position Sensor Array Member=Component R10 10K
+Added Member To Class: ClassName=Position Sensor Array Member=Component R11 10K
+Added Member To Class: ClassName=Position Sensor Array Member=Component R12 10K
+Added Member To Class: ClassName=Position Sensor Array Member=Component R13 10K
+Added Member To Class: ClassName=Position Sensor Array Member=Component R14 10K
+Added Member To Class: ClassName=Position Sensor Array Member=Component R15 10K
+Added Member To Class: ClassName=Position Sensor Array Member=Component R16 10K
+Added Member To Class: ClassName=Position Sensor Array Member=Component R17 10K
+Added Member To Class: ClassName=Position Sensor Array Member=Component R18 10K
+Added Member To Class: ClassName=Position Sensor Array Member=Component R20 10K
+Added Member To Class: ClassName=Position Sensor Array Member=Component R21 10K
+Added Member To Class: ClassName=Position Sensor Array Member=Component U1 ITR8307/TR8
+Added Member To Class: ClassName=Position Sensor Array Member=Component U2 ITR8307/TR8
+Added Member To Class: ClassName=Position Sensor Array Member=Component U3 ITR8307/TR8
+Added Member To Class: ClassName=Position Sensor Array Member=Component U4 ITR8307/TR8
+Added Member To Class: ClassName=Position Sensor Array Member=Component U5 ITR8307/TR8
+Added Member To Class: ClassName=Position Sensor Array Member=Component U6 ITR8307/TR8
+Added Member To Class: ClassName=Position Sensor Array Member=Component U7 ITR8307/TR8
+Added Member To Class: ClassName=Position Sensor Array Member=Component U8 ITR8307/TR8
+Added Member To Class: ClassName=Position Sensor Array Member=Component U9 LM324DT
+Added Member To Class: ClassName=Position Sensor Array Member=Component U10 LM324DT
+Added Room: Name=Position Sensor Array

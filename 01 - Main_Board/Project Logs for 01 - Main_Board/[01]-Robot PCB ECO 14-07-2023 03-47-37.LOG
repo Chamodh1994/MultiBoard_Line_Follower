@@ -1,0 +1,66 @@
+Change Component Footprint: Designator=U1 Old Footprint=DRC0010J_V New Footprint=DRC0010J_V
+Change Component Footprint: Designator=U9 Old Footprint=FP-DCU0008A-IPC_B New Footprint=FP-DCU0008A-IPC_B
+Change Component Footprint: Designator=U8 Old Footprint=FP-PWP0016J-IPC_B New Footprint=FP-PWP0016J-IPC_B
+Change Component Footprint: Designator=U10 Old Footprint=FP-PWP0016J-IPC_B New Footprint=FP-PWP0016J-IPC_B
+Change Component Footprint: Designator=U4 Old Footprint=FP-SO-14-IPC_B New Footprint=FP-SO-14-IPC_B
+Change Component Footprint: Designator=U5 Old Footprint=FP-SO-14-IPC_B New Footprint=FP-SO-14-IPC_B
+Change Component Footprint: Designator=U7 Old Footprint=STM-LGA-24_3500X3000X1000 New Footprint=STM-LGA-24_3500X3000X1000
+Added Component: Designator=C12(CAP_0603)
+Added Component: Designator=C13(CAP_0603)
+Added Component: Designator=D4(SOT-23-6)
+Add component (AddParameter): Name = "Distributor Link"; Value = "https://www.mouser.de/ProductDetail/STMicroelectronics/USBLC6-2SC6?qs=po45yt2pPpu%2FhNIlwQdTlg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "USBLC6-2SC6"; VariantName = "[No Variations]"
+Added Component: Designator=FB1(FB_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C370580"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sunlord"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "UPZ2012E101-4R0TF"; VariantName = "[No Variations]"
+Added Component: Designator=J1(USB4105-GF-A-060)
+Add component (AddParameter): Name = "Manufacturer"; Value = "GCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "USB4105-GF-A-060"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=+VUSB Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=+VBUS Pin=C13-2
+Added Pin To Net: NetName=USB_PORT_D_N Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=USB_PORT_D_P Pin=D4-3
+Added Pin To Net: NetName=USB_D_P Pin=D4-4
+Added Pin To Net: NetName=+VUSB Pin=D4-5
+Added Pin To Net: NetName=USB_D_N Pin=D4-6
+Added Pin To Net: NetName=+VUSB Pin=FB1-1
+Added Pin To Net: NetName=+VBUS Pin=FB1-2
+Added Pin To Net: NetName=GND Pin=J1-A1B12
+Added Pin To Net: NetName=+VUSB Pin=J1-A4B9
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=USB_PORT_D_P Pin=J1-A6
+Added Pin To Net: NetName=USB_PORT_D_N Pin=J1-A7
+Added Pin To Net: NetName=GND Pin=J1-B1A12
+Added Pin To Net: NetName=+VUSB Pin=J1-B4A9
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=USB_PORT_D_P Pin=J1-B6
+Added Pin To Net: NetName=USB_PORT_D_N Pin=J1-B7
+Added Pin To Net: NetName=GND Pin=J1-SH
+Added Pin To Net: NetName=GND Pin=J1-SH
+Added Pin To Net: NetName=GND Pin=J1-SH
+Added Pin To Net: NetName=GND Pin=J1-SH
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetJ1_B5 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=NetJ1_A5 Pin=R7-2
+Added Member To Class: ClassName=BMS Member=Component C12 100n
+Added Member To Class: ClassName=BMS Member=Component C13 100n
+Added Member To Class: ClassName=BMS Member=Component D4 USBLC6-2SC6
+Added Member To Class: ClassName=BMS Member=Component FB1 FB0805
+Added Member To Class: ClassName=BMS Member=Component J1 USB4105-GF-A-060
+Added Member To Class: ClassName=BMS Member=Component R6 5.1K
+Added Member To Class: ClassName=BMS Member=Component R7 5.1K

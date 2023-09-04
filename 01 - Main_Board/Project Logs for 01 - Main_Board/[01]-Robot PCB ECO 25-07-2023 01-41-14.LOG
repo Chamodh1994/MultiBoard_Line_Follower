@@ -1,0 +1,4 @@
+Added Component: Designator=J?(TYPE-C-31-M-12)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Koren Hroparts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TYPE-C-31-M-12"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=BMS Member=Component J? TYPE-C-31-M-12

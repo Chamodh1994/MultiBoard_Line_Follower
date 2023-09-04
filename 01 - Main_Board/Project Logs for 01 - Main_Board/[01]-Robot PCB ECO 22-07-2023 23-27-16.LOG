@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=3V3 Pin=C1-1
+Removed Pin From Net: NetName=3V3 Pin=C4-2
+Removed Pin From Net: NetName=3V3 Pin=C5-2
+Removed Pin From Net: NetName=+12 Pin=C9-2
+Removed Pin From Net: NetName=+12 Pin=C10-2
+Removed Pin From Net: NetName=+12 Pin=C11-2
+Removed Pin From Net: NetName=+12 Pin=D2-1
+Removed Pin From Net: NetName=+BAT_RAW Pin=Q3-3
+Removed Pin From Net: NetName=+12 Pin=R2-2
+Removed Pin From Net: NetName=+BAT_RAW Pin=R20-2
+Removed Pin From Net: NetName=3V3 Pin=U1-1
+Removed Pin From Net: NetName=3V3 Pin=U1-10
+Added Component: Designator=SB1(SB_1MM)
+Added Component: Designator=SB2(SB_1MM)
+Added Component: Designator=SB3(SB_1MM)
+Added Pin To Net: NetName=3V3 Pin=SB1-2
+Added Pin To Net: NetName=+12 Pin=SB2-2
+Added Pin To Net: NetName=+BAT_RAW Pin=SB3-1
+Change Net Name : Old Net Name=+BAT_RAW New Net Name=NetC15_2
+Added Pin To Net: NetName=+BAT_RAW Pin=Q3-3
+Added Pin To Net: NetName=+BAT_RAW Pin=R20-2
+Added Pin To Net: NetName=+BAT_RAW Pin=SB3-2
+Added Net: Name=+BAT_RAW
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C4-2
+Added Pin To Net: NetName=NetC1_1 Pin=C5-2
+Added Pin To Net: NetName=NetC1_1 Pin=SB1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-10
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=C10-2
+Added Pin To Net: NetName=NetC9_2 Pin=C11-2
+Added Pin To Net: NetName=NetC9_2 Pin=D2-1
+Added Pin To Net: NetName=NetC9_2 Pin=R2-2
+Added Pin To Net: NetName=NetC9_2 Pin=SB2-1
+Added Net: Name=NetC9_2
+Added Member To Class: ClassName=DC-DC Member=Component SB1 SB
+Added Member To Class: ClassName=DC-DC Member=Component SB2 SB
+Added Member To Class: ClassName=BMS Member=Component SB3 SB

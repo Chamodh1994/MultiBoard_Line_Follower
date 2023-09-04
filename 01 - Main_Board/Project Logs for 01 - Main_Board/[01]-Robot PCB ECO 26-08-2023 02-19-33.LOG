@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=Microcontroller Member=J?
+Change Component Comment : Designator=J7 Old Comment= New Comment=3X2 BergStrip
+Change Component Library : Designator=J7 Old Library=Line Follower.IntLib New Library=ESTEEMPCBLIB.IntLib

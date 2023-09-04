@@ -1,0 +1,4 @@
+Added Component: Designator=C?(CAP-EL-NP-5MM)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=BMS Member=Component C? CAP_EL_NP_5MM

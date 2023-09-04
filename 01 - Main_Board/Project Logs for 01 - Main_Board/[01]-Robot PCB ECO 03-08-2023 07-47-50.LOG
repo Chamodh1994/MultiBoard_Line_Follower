@@ -1,0 +1,18 @@
+Added Component: Designator=J1(TYPE-C-31-M-12)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Koren Hroparts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TYPE-C-31-M-12"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-A1B12
+Added Pin To Net: NetName=+VUSB Pin=J1-A4B9
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=USB_PORT_D_P Pin=J1-A6
+Added Pin To Net: NetName=USB_PORT_D_N Pin=J1-A7
+Added Pin To Net: NetName=GND Pin=J1-B1A12
+Added Pin To Net: NetName=+VUSB Pin=J1-B4A9
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=USB_PORT_D_P Pin=J1-B6
+Added Pin To Net: NetName=USB_PORT_D_N Pin=J1-B7
+Added Pin To Net: NetName=GND Pin=J1-SH
+Added Pin To Net: NetName=GND Pin=J1-SH
+Added Pin To Net: NetName=GND Pin=J1-SH
+Added Pin To Net: NetName=GND Pin=J1-SH
+Added Member To Class: ClassName=BMS Member=Component J1 TYPE-C-31-M-12

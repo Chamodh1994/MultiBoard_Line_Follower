@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=M2_OUT2 Pin=C45-1
+Removed Pin From Net: NetName=M2_OUT1 Pin=C45-2
+Removed Pin From Net: NetName=M1_OUT1 Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=M1_EA Pin=J2-3
+Removed Pin From Net: NetName=M1_EB Pin=J2-4
+Removed Pin From Net: NetName=3V3 Pin=J2-5
+Removed Pin From Net: NetName=M1_OUT2 Pin=J2-6
+Removed Pin From Net: NetName=M1_ADCI Pin=R20-1
+Removed Pin From Net: NetName=EN_M2 Pin=R22-1
+Removed Pin From Net: NetName=M2_ADCI Pin=R25-1
+Removed Pin From Net: NetName=EN_M2 Pin=R26-1
+Removed Member From Class: ClassName=Motor Drivers Member=J?
+Removed Member From Class: ClassName=Motor Drivers Member=R20
+Removed Member From Class: ClassName=Motor Drivers Member=R22
+Removed Member From Class: ClassName=Motor Drivers Member=R25
+Removed Member From Class: ClassName=Motor Drivers Member=R26
+Change Component Footprint: Designator=J3 Old Footprint=FP-B6B-XH-A_LF_SN-MFG New Footprint=CON6_100_59D78_TH_ST_Duplicate
+Change Component Comment : Designator=J3 Old Comment=B6B-XH-A(LF)(SN) New Comment=3X2 BergStrip
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Managed Component Library Link : Designator=J3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=2E4634CB-89C2-4FA9-ADC8-598CEEA6D4A1 New ItemGUID= Old RevisionGUID=4131B36C-4EB7-46E9-980F-D4F9D5ECA89D New RevisionGUID=
+Change component parameters: Designator = "J3" ("J3"); Footprint = "FP-B6B-XH-A_LF_SN-MFG"; UniqueID = "\OGHKZJJH" ("\OGHKZJJH")
+Change component parameters (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "SP ROAD"; VariantName = "[No Variations]"
+Added Component: Designator=C61(CAP_0603)
+Added Component: Designator=C62(CAP_0603)
+Added Pin To Net: NetName=M1_OUT2 Pin=C45-1
+Added Pin To Net: NetName=M1_OUT1 Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C61-1
+Added Pin To Net: NetName=M1_ADCI Pin=C61-2
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=M2_ADCI Pin=C62-2
+Added Pin To Net: NetName=M1_OUT1 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=M1_EA Pin=J2-3
+Added Pin To Net: NetName=M1_EB Pin=J2-4
+Added Pin To Net: NetName=3V3 Pin=J2-5
+Added Pin To Net: NetName=M1_OUT2 Pin=J2-6
+Added Pin To Net: NetName=M1_ADCI Pin=U11-26
+Added Pin To Net: NetName=M2_ADCI Pin=U11-27
+Added Pin To Net: NetName=EN_M2 Pin=U11-62
+Added Member To Class: ClassName=Motor Drivers Member=Component C61 100n
+Added Member To Class: ClassName=Motor Drivers Member=Component C62 100n

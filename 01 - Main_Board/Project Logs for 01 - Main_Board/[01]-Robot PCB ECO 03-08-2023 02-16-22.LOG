@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=MISO Pin=R15-2
+Removed Pin From Net: NetName=MOSI Pin=R16-2
+Removed Pin From Net: NetName=SCK Pin=R17-2
+Removed Pin From Net: NetName=SCL Pin=R18-2
+Removed Pin From Net: NetName=SDA Pin=R19-2
+Removed Member From Class: ClassName=IMU Member=R15
+Removed Member From Class: ClassName=IMU Member=R16
+Removed Member From Class: ClassName=IMU Member=R17
+Removed Member From Class: ClassName=IMU Member=R18
+Removed Member From Class: ClassName=IMU Member=R19
+Added Pin To Net: NetName=SCK Pin=U7-2
+Added Pin To Net: NetName=MOSI Pin=U7-4
+Added Pin To Net: NetName=MISO Pin=U7-5
+Added Pin To Net: NetName=MISO Pin=U7-6

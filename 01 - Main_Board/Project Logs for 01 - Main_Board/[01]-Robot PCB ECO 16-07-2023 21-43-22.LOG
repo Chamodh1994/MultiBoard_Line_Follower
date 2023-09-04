@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=J? Old Footprint=FP-B2B-XH-A_LF_SN-MFG New Footprint=FP-B2B-XH-A_LF_SN-MFG
+Change Component Footprint: Designator=J? Old Footprint=FP-B2B-XH-A_LF_SN-MFG New Footprint=FP-B2B-XH-A_LF_SN-MFG
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ6_1
+Added Member To Class: ClassName=BMS Member=Component J5 B2B-XH-A(LF)(SN)
+Added Room: Name=Analog Switch
+Added Room: Name=BMS
+Added Room: Name=DC-DC
+Added Room: Name=IMU
+Added Room: Name=Microcontroller
+Added Room: Name=Motor Drivers
+Added Room: Name=Peripherals

@@ -1,0 +1,70 @@
+Bill of Material for Analog Switch.SchDoc
+On 04/09/2023 at 15:13:48
+
+ Comment             Pattern     Quantity  Components                   Description
+-----------------------------------------------------------------------------------
+
+                     RES_0603         2    R24, R32                     Resistor SMD 0603
+ 1K                  RES_0603         6    R1, R3, R9, R43, R44, R45    Resistor SMD 0603
+ 1u                  CAP_0603         2    C32, C56                     Capacitor SMD 0603 16V
+ 1.8K                RES_0603         2    R28, R34                     Resistor SMD 0603
+ 2N7002LT1G          SOT-23           1    Q2                           Small Signal MOSFET, 60 V, 115 mA, N-Channel, 3-Pin SOT-23, Pb-Free, Tape and Reel
+ 2.2u                CAP_0603         3    C18, C19, C59                Capacitor SMD 0603 16V
+ 3X2 BergStrip       CON6_100_59D78_TH_ST_Duplicate    3    J2, J3, J7                   6 Pins, 2 Row 2.54mm Pitch, Straight bergstrip, Male
+ 4.32K               RES_0603         1    R8                           Resistor SMD 0603
+ 4.7K                RES_0603         5    R36, R37, R38, R39, R40      Resistor SMD 0603
+ 4.7uH               MWSA0603S        1    L2                           Fixed Ind 4.7UH 6A 33 Mohm SMD
+ 5.1K                RES_0603         2    R6, R7                       Resistor SMD 0603
+ 10K                 RES_0603         9    R13, R14, R15, R16, R17, R18 Resistor SMD 0603
+                                           R21, R30, R42
+ 10K 1%              RES_0603         1    R4                           Resistor SMD 0603
+ 10n                 CAP_0603         1    C28                          Capacitor SMD 0603 16V
+ 10u                 CAP_0603         8    C2, C5, C15, C16, C17, C20   Capacitor SMD 0603 16V
+                                           C30, C31
+ 10uF                CAP SMD 4X5.8    3    C1, C35, C42                 Aluminum Electrolytic Capacitor, UD Series, Low Impedance, 10 uF, 25 V, + / - 20%, -55 to 105 degC, Chip Type, 4 x 5.8 mm D x L, Pb-Free, Reel
+ 13.3K               RES_0603         1    R11                          Resistor SMD 0603
+ 16K                 RES_0603         2    R23, R31                     Resistor SMD 0603
+ 16P 0.5MM           CONN12x1_FH34SRJ-16S-0.5SH(50)    1    X1                           Ffc-fpc Connector, Receptacle, Number Of Positions 16, Horizontal, Rated Current 0.5 A
+ 21K                 RES_0603         1    R10                          Resistor SMD 0603
+ 22n                 CAP_0603         2    C34, C41                     Capacitor SMD 0603 16V
+ 22p                 CAP_0603         3    C11, C48, C49                Capacitor SMD 0603 16V
+ 22u                 CAP_0603         4    C7, C8, C9, C10              Capacitor SMD 0603 16V
+ 27K                 RES_0603         1    R5                           Resistor SMD 0603
+ 47u                 CAP_0603         1    C14                          Capacitor SMD 0603 16V
+ 50K                 RES_0603         2    R27, R33                     Resistor SMD 0603
+ 100K                RES_0603         1    R20                          Resistor SMD 0603
+ 100n                CAP_0603        33    C3, C4, C12, C13, C21, C22   Capacitor SMD 0603 16V
+                                           C23, C24, C25, C26, C27, C29
+                                           C33, C36, C37, C38, C39, C40
+                                           C43, C44, C45, C46, C47, C51
+                                           C52, C53, C54, C57, C58, C60
+                                           C61, C62, C63
+ 100R                RES_0603         2    R12, R22                     Resistor SMD 0603
+ 190K 1%             RES_0603         1    R2                           Resistor SMD 0603
+ 280R                RES_0603         1    R41                          Resistor SMD 0603
+ 150141M173100       3528_A           1    LED1                         SMD Full-Color Top LED, WL-SFTW, Red & Green & Blue
+ AOD4185             INF-PG-TO252-3-11_N    1    Q3                           Trans MOSFET P-CH 40V 40A 3-Pin(2+Tab) DPAK
+ B2B-XH-A(LF)(SN)    FP-B2B-XH-A_LF_SN-MFG    2    J5, J6                       CONN HEADER VERT 2POS 2.5MM
+ BQ25303JRTER        WQFN50P300X300X80_HS-17N    1    Q1                           Standalone 1-cell 17-V, 3.0-A battery charger with JEITA battery temperature monitoring 16-WQFN -40 to 85
+ DRV8874PWPR         FP-PWP0016J-IPC_B    2    U8, U10                      DRV8874 H-BRIDGE MOTOR DRIVER
+ DTSM-3              DTSM-3           1    SW2                          Tactile Switch SMD SPST
+ FB0805              FB_0805          3    FB1, FB2, FB3                0.02Ω ±25%  100Ω@100MHz 0805 4A
+ FP6293XR-G1         SOP127P600X175_HS-9N    1    U2                           1Mhz, 3.5A Step-Up Current Mode PWM Controller
+ GREEN               LED_0603_GREEN    2    D1, D3                       LED 0603 GREEN SMD
+ LM324DT             FP-SO-14-IPC_B    2    U4, U5                       IC OPAMP GP 4 CIRCUIT 14SO
+ LSM9DS1TR           STM-LGA-24_3500X3000X1000    1    U7                           iNEMO Inertial Module: 3D Accelerometer, 3D Gyroscope, 3D Magnetometer, 1.9 to 3.6 V, -40 to 85 degC, 24-Pin LGA, RoHS, Tape and Reel
+ MSK12C02-HB         MSK12C02-HB      2    SW1, SW3                     SWITCH SLIDE SPDT 50MA 12VDC
+ MWSA0402S           MWSA0402S        1    L3                           Power Inductor SMD Sunlord MWSA0603S
+ Pin Header 6p       CON_PH_6x1       1    X3                           Female, 6 C, Straight, .100"CC; 3.20mm Tail, No Mt. 100u" Tin; PBT, Phos Bronze, 105 C
+ RED                 LED_0603_RED     1    D5                           LED 0603 RED SMD
+ SB                  SB_1MM           3    SB1, SB2, SB3                
+ SN74LVC2G32QDCURQ1  FP-DCU0008A-IPC_B    1    U9                           IC GATE OR 2CH 2-INP 8VSSOP
+ SSC54-E3/57T        FP-95402-MFG     1    D2                           DIODE SCHOTTKY 40V 5A DO214AB
+ STM32F446RET6       FP-LQFP64-5W-IPC_B    1    U11                          ARM® Cortex®-M4 STM32 F4 Microcontroller IC 32-Bit 180MHz 512KB (512K x 8) FLASH 64-LQFP (10x10)
+ T491A106K010AT      CAP-TANT-3216    2    C50, C55                     Capacitor, Tantalum, 10 uF, +/- 10%, 10 V, -55 to 125 degC, 2-Pin SMD (1206), RoHS, Tape and Reel
+ TMUX1574PWR         TSSOP-FP-PW0016A-IPC_B    2    U3, U6                       IC SWITCH SPDT QUAD 16TSSOP
+ TPS63001DRCR        DRC0010J_V       1    U1                           Buck-Boost Voltage Converter with 1.8 to 5.5 V Input and 3.3 V Output, -40 to 85 degC, 10-Pin SON (DRC), Green (RoHS & no Sb/Br)
+ TYPE-C-31-M-12      TYPE-C-31-M-12    1    J1                           USB Type C Connector Horizontal SMT
+ USBLC6-2SC6         SOT-23-6         1    D4                           Low-Capacitance ESD Protection USB
+ VLS3012ET-2R2M      INDP3030X12N     1    L1                           Inductor Power Shielded Wirewound 2.2uH 20% 1MHz Ferrite 1.7A 0.096Ohm DCR 1212 T/R
+ XTAL_3225           XTAL_3225        1    X2                           Crystal SMD 3225

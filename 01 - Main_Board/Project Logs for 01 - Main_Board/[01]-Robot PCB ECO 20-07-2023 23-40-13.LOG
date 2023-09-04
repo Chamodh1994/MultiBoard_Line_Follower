@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=R29-1
+Removed Pin From Net: NetName=M1_ADCI Pin=R29-2
+Removed Pin From Net: NetName=GND Pin=R35-1
+Removed Pin From Net: NetName=M2_ADCI Pin=R35-2
+Removed Member From Class: ClassName=Motor Drivers Member=R29
+Removed Member From Class: ClassName=Motor Drivers Member=R35
+Added Member To Class: ClassName=Motor Drivers Member=Component J2 3X2 BergStrip

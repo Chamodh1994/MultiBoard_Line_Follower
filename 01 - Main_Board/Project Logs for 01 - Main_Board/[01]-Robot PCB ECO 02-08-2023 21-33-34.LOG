@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PSOUT5 Pin=U11-8
+Removed Pin From Net: NetName=PSOUT6 Pin=U11-9
+Removed Pin From Net: NetName=PSOUT7 Pin=U11-10
+Removed Pin From Net: NetName=PSOUT8 Pin=U11-11
+Added Pin To Net: NetName=PSOUT8 Pin=U11-8
+Added Pin To Net: NetName=PSOUT7 Pin=U11-9
+Added Pin To Net: NetName=PSOUT6 Pin=U11-10
+Added Pin To Net: NetName=PSOUT5 Pin=U11-11

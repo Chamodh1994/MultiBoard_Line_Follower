@@ -1,0 +1,4 @@
+Added Component: Designator=J?(USB4105-GF-A-060)
+Add component (AddParameter): Name = "Manufacturer"; Value = "GCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "USB4105-GF-A-060"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=BMS Member=Component J? USB4105-GF-A-060

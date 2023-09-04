@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=+12 Pin=C6-2
+Change Component Footprint: Designator=C6 Old Footprint=FP-SC-MFG New Footprint=NIC-CAPA2-4X5.8_V
+Change Component Comment : Designator=C6 Old Comment=EEE-1EA100SR New Comment=UUD1E100MCL1GS
+Change Managed Component Library Link : Designator=C6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6972451C-5CA1-4276-B198-35D55D0E6360 New ItemGUID=DF1D139F-1712-4991-9585-2FB7A5F8F2AB Old RevisionGUID=9C741733-57F4-45D8-8AA0-B989B81AF5F6 New RevisionGUID=EC589666-9C12-47E1-BA6D-EEC231DBE154
+Change component parameters: Designator = "C6" ("C6"); Footprint = "FP-SC-MFG"; UniqueID = "\BDVKCYRB" ("\BDVKCYRB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.nichicon.co.jp/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "08/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "4 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Endurance Time"; Value = "2000 h"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "1.8 Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "5.8 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Diameter 4 mm, Height 5.8 mm, Pitch 3.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPAE-D4H5.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Dia382mm Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "UUD1E100MCL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Capacitance"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Ripple Current (at 100kHz)"; Value = "80 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "25 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance Rated Capacitance"; Value = "-20 to 20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2

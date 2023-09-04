@@ -1,0 +1,10 @@
+Output: Report Single Pin Nets
+Type  : SinglePinNetReporter
+From  : Project [01 - Main_Board.PrjPcb]
+   Generated File[01 - Main_Board.REP]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:13:49 On 04/09/2023

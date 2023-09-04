@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=NetU2_1 Pin=Q1-3
+Change Net Name : Old Net Name=NetU2_1 New Net Name=NetQ1_3
+Added Member To Class: ClassName=Position Sensor Array Member=Component C4 100n
+Added Member To Class: ClassName=Position Sensor Array Member=Component R19 10K
+Added Member To Class: ClassName=Position Sensor Array Member=Component U1 ITR8307/TR8
+Added Member To Class: ClassName=Position Sensor Array Member=Component U2 ITR8307/TR8
+Added Member To Class: ClassName=Position Sensor Array Member=Component U3 ITR8307/TR8
+Added Member To Class: ClassName=Position Sensor Array Member=Component U4 ITR8307/TR8
+Added Member To Class: ClassName=Position Sensor Array Member=Component U5 ITR8307/TR8
+Added Member To Class: ClassName=Position Sensor Array Member=Component U6 ITR8307/TR8
+Added Member To Class: ClassName=Position Sensor Array Member=Component U7 ITR8307/TR8
+Added Member To Class: ClassName=Position Sensor Array Member=Component U8 ITR8307/TR8

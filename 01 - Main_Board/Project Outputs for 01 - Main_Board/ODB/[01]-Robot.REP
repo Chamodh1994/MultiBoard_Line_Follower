@@ -1,0 +1,74 @@
+*************************************************************
+FileName = [01]-Robot.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\profile
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\stephdr
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\attrlist
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\dielectric\features
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\dielectric\attrlist
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\attrlist
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\attrlist
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\top_layer\features
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\rout\features
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\layers\rout\tools
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\steps\pcb\eda\data
+
+Generated File : D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\Project Outputs for 01 - Main_Board\ODB\odb\matrix\matrix
+
