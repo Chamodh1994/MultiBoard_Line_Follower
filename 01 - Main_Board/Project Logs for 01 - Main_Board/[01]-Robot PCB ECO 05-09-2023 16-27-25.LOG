@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=BT_TX Pin=U11-51
+Removed Pin From Net: NetName=BT_RX Pin=U11-52
+Removed Member From Class: ClassName=Microcontroller Member=X3
+Add Net: Net with name "BT_RX" already exists
+Add Net: Net with name "BT_TX" already exists
+Change Class Name : Old Net Name=Analog Switch New Net Name=U_Analog Switch
+Change Class Name : Old Net Name=BMS New Net Name=U_BMS
+Change Class Name : Old Net Name=DC-DC New Net Name=U_DC-DC
+Change Class Name : Old Net Name=IMU New Net Name=U_IMU
+Change Class Name : Old Net Name=Microcontroller New Net Name=U_Microcontroller
+Change Class Name : Old Net Name=Motor Drivers New Net Name=U_Motor Drivers
+Added Class: Name=U_Peripherals

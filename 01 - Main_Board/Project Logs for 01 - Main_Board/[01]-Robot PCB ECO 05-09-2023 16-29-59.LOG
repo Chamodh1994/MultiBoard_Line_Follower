@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=U_Peripherals Member=X3
+Added Pin To Net: NetName=BT_TX Pin=U11-51
+Added Pin To Net: NetName=BT_RX Pin=U11-52
+Added Member To Class: ClassName=U_Microcontroller Member=Component X3 Pin Header 6p
