@@ -1,7 +1,8 @@
-Record=TopLevelDocument|FileName=Analog Switch.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Analog Switch.SchDoc|FileName=BMS.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Analog Switch.SchDoc|FileName=DC-DC.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Analog Switch.SchDoc|FileName=IMU.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Analog Switch.SchDoc|FileName=Microcontroller.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=Analog Switch.SchDoc|FileName=Motor Drivers.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Analog Switch.SchDoc|FileName=Peripherals.SchDoc|SheetNumber=6
+Record=TopLevelDocument|FileName=Cover Page.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Cover Page.SchDoc|Designator=FFC Connector|SchDesignator=FFC Connector|FileName=Peripherals.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=Peripherals.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Cover Page.SchDoc|Designator=U_Analog Switch|SchDesignator=U_Analog Switch|FileName=Analog Switch.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Analog Switch.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Cover Page.SchDoc|Designator=U_DC-DC|SchDesignator=U_DC-DC|FileName=DC-DC.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=DC-DC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Cover Page.SchDoc|Designator=U_IMU|SchDesignator=U_IMU|FileName=IMU.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=IMU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Cover Page.SchDoc|Designator=U_Microcontroller|SchDesignator=U_Microcontroller|FileName=Microcontroller.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=Microcontroller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Cover Page.SchDoc|Designator=U_Motor Drivers|SchDesignator=U_Motor Drivers|FileName=Motor Drivers.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=Motor Drivers.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Cover Page.SchDoc|Designator=USB Port and BMS|SchDesignator=USB Port and BMS|FileName=BMS.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=BMS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

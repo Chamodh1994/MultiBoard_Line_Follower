@@ -1,0 +1,4 @@
+Change Component Comment : Designator=R24 Old Comment=* New Comment=20K
+Change Component Comment : Designator=R32 Old Comment=* New Comment=20K
+Change Class Name : Old Net Name=U_BMS New Net Name=USB Port and BMS
+Change Class Name : Old Net Name=U_Peripherals New Net Name=FFC Connector
