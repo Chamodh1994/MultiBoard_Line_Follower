@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [01 - Main_Board.PrjPcb]
+   Generated File[[01]-Robot-RoundHoles.TXT]
+   Generated File[[01]-Robot-SlotHoles.TXT]
+   Generated File[[01]-Robot.LDP]
+   Generated File[[01]-Robot.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 02:45:03 On 13/09/2023

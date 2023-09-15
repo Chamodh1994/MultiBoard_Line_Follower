@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: [01]-Robot.PcbDoc   13/09/2023  02:45:02
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : [01]-Robot-RoundHoles.TXT
+ASCII SlotHoles File : [01]-Robot-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             247       PTH        780.58mm (30.73inch)
+T2      0.55mm (22mil)                                            Slot              4         PTH        38.68mm (1.52inch)
+T3      0.9mm (35mil)                                             Round             18        PTH        88.04mm (3.47inch)
+T4      1mm (39mil)                                               Round             10        PTH        48.73mm (1.92inch)
+T5      0.6mm (24mil)                                             Round             2         NPTH       5.80mm (0.23inch)
+T6      0.9mm (35mil)                                             Round             4         NPTH       59.32mm (2.34inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              285
+
+Total Processing Time (hh:mm:ss) : 00:00:01

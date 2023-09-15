@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Users\Documents\Altium\MultiBoard_Line_Follower_v1\01 - Main_Board\[01]-Robot.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=[01]-robot-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=[01]-robot-slotholes.txt|DrillLayers=gtl,gbl
